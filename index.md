@@ -9,7 +9,7 @@ title: Manoel Galdino
 [My CV Lattes is available here.](http://lattes.cnpq.br/9398710384205803)
 
 ### Research
-[My research is listed here.](research.html)
+[My research is listed here.](research/)
 
 ### Contact
 - Email: mgaldino@usp.br
