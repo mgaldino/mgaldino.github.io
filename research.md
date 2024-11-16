@@ -34,6 +34,11 @@ with Danilo Freire and Umberto Mignozzetti, Research & Politics, 7(2), 2020.
 
 
 ### Books Manuscripts
-- **Introduction to Regression**. Available at https://mgaldino.github.io/book-regression/.
+
+The books below are in Portuguese only:
+
+1. [Introduction to Regression](https://mgaldino.github.io/book-regression/)
+
+2. [Introduction to Game Theory](https://mgaldino.github.io/Teoria-dos-Jogos/)
 
 
