@@ -1,6 +1,6 @@
 #start
 # Basic site configuration
-title: "My Academic Website"
+title: "Manoel Galdino"
 description: "A showcase of my research, teaching, and writing."
 baseurl: "" # Leave empty unless deploying to a subdirectory
 url: "https://mgaldino.github.io"
