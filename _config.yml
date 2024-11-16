@@ -1,0 +1,37 @@
+# Basic site configuration
+title: "My Academic Website"
+description: "A showcase of my research, teaching, and writing."
+baseurl: "" # Leave empty unless deploying to a subdirectory
+url: "https://mgaldino.github.io"
+
+defaults:
+  - scope:
+      path: ""  # Applies to all pages
+    values:
+      sidebar: false
+
+# Theme and plugins
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Public Writing"
+    url: /public-writing/
+
+header:
+  navigation: true
+footer:
+  links: false  # Disable footer links
+
+# Optional configuration
+markdown: kramdown
+highlighter: rouge
