@@ -5,6 +5,11 @@ on:
     branches:
       - main  # Adjust this if your default branch is not 'main'
 
+permissions:
+  contents: read      # Allows reading repository contents
+  pages: write        # Allows writing to GitHub Pages
+  id-token: write     # Required for deployment to GitHub Pages
+
 jobs:
   build:
     runs-on: ubuntu-latest
