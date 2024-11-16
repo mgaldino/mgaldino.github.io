@@ -3,7 +3,7 @@ layout: default
 title: Manoel Galdino
 ---
 
-### Associate Professor of Political Science <br> Political Science Department at Universidade de São Paulo
+### Assistant Professor of Political Science <br> [Political Science Department](https://dcp.fflch.usp.br/) at Universidade de São Paulo
 
 ### CV
 [My CV Lattes is available here.](http://lattes.cnpq.br/9398710384205803)
