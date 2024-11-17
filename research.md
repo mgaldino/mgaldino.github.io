@@ -20,16 +20,13 @@ são improcedentes, especialmente a suposta incapacidade de generalizar resultad
 o rastreamento de processo Bayesiano e queries causais. <\div>
 
 3. [Efeito dos fundamentos morais sobre o engajamento político em redes sociais: um estudo experimental de campo](https://github.com/juliatachima/MFT_IC/blob/main/Manuscripts/article_MFT_Galdino_Tachima.pdf) <br> 
-With Julia Tachima.  <button class="accordion"> Abstract </button>
-    <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;">
+With Julia Tachima.  <button class="accordion"> Abstract </button> <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;">
     Este estudo investiga a influência dos fundamentos morais no engajamento político em mídias sociais em contextos não eleitorais no Brasil. Utilizando a Teoria dos Fundamentos Morais (MFT), exploramos como apelos morais direcionados — como autoridade e lealdade para públicos conservadores — impactam os níveis de engajamento (curtidas, comentários, compartilhamentos) em plataformas como Facebook e Instagram. Em parceria com a organização da sociedade civil Sou da Paz, conduzimos um experimento de campo direcionado a grupos ideologicamente distintos, incluindo Progressistas, Conservadores Cristãos, Empreendedores e pessoas de baixa renda. Cada grupo recebeu mensagens impulsionadas sobre uso de câmeras corporais por policiais. Nossos resultados indicam que a estruturação moral das mensagens aumentou significativamente o engajamento, com segmentos conservadores apresentando até 30% mais engajamento do que progressistas, que receberam mensagens neutras. Esses resultados contribuem para os campos da comunicação política, demonstrando como a segmentação ideológica e os apelos morais podem intensificar o engajamento online no Sul Global. O estudo oferece insights práticos para organizações da sociedade civil que buscam mobilizar apoiadores e influenciar o discurso público, ampliando a aplicação da MFT para novos contextos sociopolíticos e geográficos. <\div>
 
 ### Peer-reviewed Publications (last five years)
 
 1. [Bottom-up accountability and public service provision: Evidence from a field experiment in Brazil](https://journals.sagepub.com/doi/full/10.1177/2053168020914444) <br>
-with Danilo Freire and Umberto Mignozzetti, Research & Politics, 7(2), 2020.
-
- <button class="accordion"> Abstract </button>
+with Danilo Freire and Umberto Mignozzetti, Research & Politics, 7(2), 2020. <button class="accordion"> Abstract </button>
     <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> Does local oversight improve public service delivery? We study the effect of a mobile phone application that allows citizens to monitor school construction projects in Brazilian municipalities. The app prompts users to submit data about construction sites, sends such crowdsourced information to independent engineers, and contacts the mayors’ offices about project delays. Our results show that the app has a null impact on school construction indicators. Additionally, we find that politicians are unresponsive to individual requests. The results question the impact of bottom-up monitoring on public service performance and suggest that interventions targeted at other groups, or focused on different issues, may produce better policy outcomes. <\div>
 
 
