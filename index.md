@@ -11,6 +11,9 @@ title: Manoel Galdino
 ### Research
 [My research is listed here.](research/)
 
+### Op-eds
+[My public writing, mostly in Portuguese, can be found here](public-writing/)
+
 ### Contact
 - Email: mgaldino@usp.br
 - Bluesky: [@mgaldino](https://bsky.app/profile/mgaldino.bsky.social)
