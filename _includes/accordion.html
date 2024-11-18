@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en' }}">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title | escape }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ site.minima.meta_tags | default: "" }}
+    {{ site.minima.favicons | default: "" }}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    {{ site.minima.styles | default: "" }}
+  </head>
+  <body>
+    {{ content }}
+    <script src="{{ site.baseurl }}/assets/js/accordion.js"></script>
+  </body>
+</html>
