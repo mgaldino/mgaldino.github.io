@@ -18,15 +18,6 @@ description: Working papers and publications by Manoel Galdino.
   <h2 id="working-papers">Working Papers</h2>
   <div class="paper-list">
     <article class="paper-card">
-      <h3>Habilitation Thesis Project: Measuring the International Liberal Order</h3>
-      <p class="paper-meta">Ongoing project.</p>
-      <details>
-        <summary>Abstract</summary>
-        <p>This project investigates whether the International Liberal Order (ILO) is in substantive erosion or structural reorganization. The core argument is that this debate remains inconclusive because we still lack systematic empirical measures of the ILO over time. To address this gap, the project combines four strategies: (1) estimation of a latent measure of support for the ILO using dynamic IRT models applied to treaty ratification across multiple domains; (2) analysis of the substantive content of treaties with graded IRT and LLM-assisted coding; (3) measurement of trade openness through a two-dimensional typology based on tariff levels and universality (MFN vs. preferential); and (4) development of a formal game-theoretic model to microfound state decisions to join international commitments. The expected contribution is to provide a comparable quantitative measure of the ILO, distinguish formal from substantive adherence, and evaluate, with greater precision, systemic-level dynamics of transformation in the international order over time.</p>
-      </details>
-    </article>
-
-    <article class="paper-card">
       <h3>How Sensitive Are Process Tracing Conclusions? Replications with Bayesian Process Tracing</h3>
       <p class="paper-meta">Project in progress. Full text not publicly available at this stage.</p>
       <details>
@@ -121,6 +112,20 @@ description: Working papers and publications by Manoel Galdino.
     <li>Preferred profile: students willing to combine theory, transparent evidence, and reproducible workflows.</li>
     <li>First contact: email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with a short research idea and current stage.</li>
   </ul>
+</section>
+
+<section class="section-block" aria-labelledby="habilitation-project">
+  <h2 id="habilitation-project">Habilitation Thesis Project</h2>
+  <div class="paper-list">
+    <article class="paper-card">
+      <h3>Habilitation Thesis Project: Measuring the International Liberal Order</h3>
+      <p class="paper-meta">Ongoing project.</p>
+      <details>
+        <summary>Abstract</summary>
+        <p>This project investigates whether the International Liberal Order (ILO) is in substantive erosion or structural reorganization. The core argument is that this debate remains inconclusive because we still lack systematic empirical measures of the ILO over time. To address this gap, the project combines four strategies: (1) estimation of a latent measure of support for the ILO using dynamic IRT models applied to treaty ratification across multiple domains; (2) analysis of the substantive content of treaties with graded IRT and LLM-assisted coding; (3) measurement of trade openness through a two-dimensional typology based on tariff levels and universality (MFN vs. preferential); and (4) development of a formal game-theoretic model to microfound state decisions to join international commitments. The expected contribution is to provide a comparable quantitative measure of the ILO, distinguish formal from substantive adherence, and evaluate, with greater precision, systemic-level dynamics of transformation in the international order over time.</p>
+      </details>
+    </article>
+  </div>
 </section>
 
 <section class="section-block" aria-labelledby="books">

@@ -18,15 +18,6 @@ description: Working papers e publicações de Manoel Galdino.
   <h2 id="working-papers">Working Papers</h2>
   <div class="paper-list">
     <article class="paper-card">
-      <h3>Projeto de Tese de Livre-Docência: Medindo a Ordem Internacional Liberal</h3>
-      <p class="paper-meta">Projeto em andamento.</p>
-      <details>
-        <summary>Resumo</summary>
-        <p>O projeto da minha tese de Livre-Docência investiga se a Ordem Internacional Liberal (LIO) está em erosão substantiva ou em reorganização estrutural. O argumento central é que esse debate permanece inconclusivo porque faltam medidas empíricas sistemáticas da LIO ao longo do tempo. Para enfrentar esse problema, o projeto combina quatro estratégias: (1) estimação de uma medida latente de apoio à LIO com modelos IRT dinâmicos aplicados à ratificação de tratados em múltiplos domínios; (2) análise do conteúdo substantivo dos tratados com graded IRT e codificação assistida por LLM; (3) mensuração de abertura comercial por uma tipologia bidimensional baseada em nível tarifário e universalidade (MFN vs. preferencial); e (4) desenvolvimento de um modelo formal de teoria dos jogos para microfundamentar as decisões estatais de adesão a compromissos internacionais. A contribuição esperada é oferecer uma medida quantitativa comparável da LIO, distinguir adesão formal de adesão substantiva e avaliar, com maior precisão, dinâmicas de transformação da ordem internacional em nível sistêmico ao longo do tempo.</p>
-      </details>
-    </article>
-
-    <article class="paper-card">
       <h3>Quão Sensíveis São as Conclusões de Process Tracing? Replicações com Bayesian Process Tracing</h3>
       <p class="paper-meta">Projeto em desenvolvimento. Texto completo indisponível ao público nesta fase.</p>
       <details>
@@ -121,6 +112,20 @@ description: Working papers e publicações de Manoel Galdino.
     <li>Perfil desejado: estudantes dispostos a combinar teoria, evidência transparente e fluxos de trabalho reproduzíveis.</li>
     <li>Primeiro contato: envie e-mail para <a href="mailto:{{ site.email }}">{{ site.email }}</a> com uma ideia breve de pesquisa e seu estágio atual.</li>
   </ul>
+</section>
+
+<section class="section-block" aria-labelledby="livre-docencia">
+  <h2 id="livre-docencia">Projeto de Livre-Docência</h2>
+  <div class="paper-list">
+    <article class="paper-card">
+      <h3>Projeto de Tese de Livre-Docência: Medindo a Ordem Internacional Liberal</h3>
+      <p class="paper-meta">Projeto em andamento.</p>
+      <details>
+        <summary>Resumo</summary>
+        <p>O projeto da minha tese de Livre-Docência investiga se a Ordem Internacional Liberal (LIO) está em erosão substantiva ou em reorganização estrutural. O argumento central é que esse debate permanece inconclusivo porque faltam medidas empíricas sistemáticas da LIO ao longo do tempo. Para enfrentar esse problema, o projeto combina quatro estratégias: (1) estimação de uma medida latente de apoio à LIO com modelos IRT dinâmicos aplicados à ratificação de tratados em múltiplos domínios; (2) análise do conteúdo substantivo dos tratados com graded IRT e codificação assistida por LLM; (3) mensuração de abertura comercial por uma tipologia bidimensional baseada em nível tarifário e universalidade (MFN vs. preferencial); e (4) desenvolvimento de um modelo formal de teoria dos jogos para microfundamentar as decisões estatais de adesão a compromissos internacionais. A contribuição esperada é oferecer uma medida quantitativa comparável da LIO, distinguir adesão formal de adesão substantiva e avaliar, com maior precisão, dinâmicas de transformação da ordem internacional em nível sistêmico ao longo do tempo.</p>
+      </details>
+    </article>
+  </div>
 </section>
 
 <section class="section-block" aria-labelledby="books">
