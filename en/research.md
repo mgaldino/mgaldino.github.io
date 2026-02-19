@@ -22,7 +22,7 @@ description: Working papers and publications by Manoel Galdino.
       <p class="paper-meta">With Juliana Sakai, Bianca Mondo, and Natália Paiva. Updated 2026 version.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This paper examines the effect of bottom-up accountability on public service delivery. Using the Obra Transparente intervention and a difference-in-differences design, the results indicate meaningful increases in construction completion rates when organized CSOs combine sustained monitoring, mobilization, and direct engagement with public officials.</p>
+        <p>This paper examines the effect of bottom-up accountability on public service delivery. We differentiate between information-driven interventions and the mobilization and monitoring efforts of organized Civil Society Organizations (CSOs), and argue that the latter type of interventions can drive significant policy change. The study evaluates the effectiveness of the Obra Transparente project by Brazilian NGO Transparência Brasil, engaging 21 local CSOs in South and Southeast Brazil. Using a difference-in-differences design, we estimate that the intervention increased construction completion rates by approximately 8 percentage points on average (static specification), with suggestive evidence that the dynamic effect may reach up to 18 percentage points approximately five years after the start of the intervention, though this estimate should be interpreted with caution due to a gap in data collection spanning the COVID-19 pandemic. Our findings emphasize the importance of sustained, coordinated efforts by socially embedded CSOs. These efforts, involving direct engagement with municipal officials and ensuring that their complaints cannot be ignored, lead to more substantial outcomes when compared with information-driven interventions targeting individual citizens.</p>
       </details>
     </article>
 
@@ -31,7 +31,7 @@ description: Working papers and publications by Manoel Galdino.
       <p class="paper-meta">Status: submitted to <em>Brazilian Political Science Review (BPSR)</em>.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This research note discusses the methodological implications of the Credibility Revolution and Bayesian inference for qualitative causal research. The core argument is that, by separating causal identification from statistical inference and explicitly incorporating Bayesian reasoning, important traditional critiques of qualitative methods lose analytical force.</p>
+        <p>Esta nota de pesquisa argumenta que os avanços recentes na metodologia de inferência causal — notadamente a Revolução da Credibilidade nos métodos quantitativos e o desenvolvimento da inferência Bayesiana — oferecem um novo enquadramento para avaliar o rigor e a validade da pesquisa qualitativa em ciência política. Em vez de assumir que métodos qualitativos são inerentemente limitados em sua capacidade de generalização, propomos uma distinção mais precisa entre identificação causal e inferência estatística. Com base em dois desenvolvimentos recentes — o process tracing Bayesiano e o modelo de queries causais — mostramos que estudos de pequeno-n podem produzir inferências causais robustas, desde que as suposições de identificação sejam plausíveis, transparentes e avaliáveis. O objetivo da nota é sistematizar, de forma acessível e didática, os desafios e potenciais desses métodos, contribuindo para sua aplicação crítica no ensino e na pesquisa em ciência política.</p>
       </details>
     </article>
 
@@ -40,7 +40,7 @@ description: Working papers and publications by Manoel Galdino.
       <p class="paper-meta">With Julia Tachima.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This field experiment, conducted in partnership with Sou da Paz, evaluates how moral framing affects online political engagement across groups with different ideological profiles. The findings indicate substantive heterogeneity in responses to alternative moral appeals.</p>
+        <p>Este estudo investiga a influência dos fundamentos morais no engajamento político em mídias sociais em contextos não eleitorais no Brasil. Utilizando a Teoria dos Fundamentos Morais (MFT), exploramos como apelos morais direcionados — como autoridade e lealdade para públicos conservadores — impactam os níveis de engajamento (curtidas, comentários, compartilhamentos) em plataformas como Facebook e Instagram. Em parceria com a organização da sociedade civil Sou da Paz, conduzimos um experimento de campo direcionado a grupos ideologicamente distintos, incluindo Progressistas, Conservadores Cristãos, Empreendedores e pessoas de baixa renda. Cada grupo recebeu mensagens impulsionadas sobre uso de câmeras corporais por policiais. Nossos resultados indicam que a estruturação moral das mensagens aumentou significativamente o engajamento, com segmentos conservadores apresentando até 30% mais engajamento do que progressistas, que receberam mensagens neutras. Esses resultados contribuem para os campos da comunicação política, demonstrando como a segmentação ideológica e os apelos morais podem intensificar o engajamento online no Sul Global. O estudo oferece insights práticos para organizações da sociedade civil que buscam mobilizar apoiadores e influenciar o discurso público, ampliando a aplicação da MFT para novos contextos sociopolíticos e geográficos.</p>
       </details>
     </article>
   </div>
@@ -54,7 +54,7 @@ description: Working papers and publications by Manoel Galdino.
       <p class="paper-meta">With V. A. B. Lyra. Accepted at <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
       <details>
         <summary>Abstract</summary>
-        <p>The article analyzes the 2006 Bolivia-Brazil gas crisis using supermodular game theory and evidence from diplomatic cables. The central claim is that, under interdependence and third-party intervention, power asymmetries do not necessarily prevent a weaker actor from improving its bargaining position and imposing costs on a regionally dominant state.</p>
+        <p>This study analyzes the 2006 Bolivia-Brazil gas negotiations using supermodular game theory and leveraging unprecedented analysis of diplomatic cables. Our puzzle, from a rationalist perspective, is how a small power can prevail over a regional leader. While traditional theories suggest interdependence fosters cooperation, this case reveals it can harden positions and intensify bargaining crises when external actors intervene. By modeling strategic interactions between Bolivia, Brazil, and Venezuela, the study highlights how Venezuelan support strengthened Bolivia’s stance. The nationalization of hydrocarbons constrained Brazil’s response, as Lula faced domestic political limitations. The findings challenge conventional views by demonstrating that interdependence can trigger crises. The supermodular model contributes to the literature on international negotiations and energy diplomacy by providing a formalized approach to understanding bargaining rigidity in resource-driven disputes.</p>
       </details>
     </article>
     <article class="paper-card">
@@ -62,7 +62,7 @@ description: Working papers and publications by Manoel Galdino.
       <p class="paper-meta">With Danilo Freire and Umberto Mignozzetti. <em>Research &amp; Politics</em>, 7(2), 2020.</p>
       <details>
         <summary>Abstract</summary>
-        <p>We evaluate a mobile-phone intervention that enabled citizens to monitor school construction in Brazilian municipalities. The study finds null average effects and suggests that individual monitoring requests are often insufficient to shift local government behavior.</p>
+        <p>Does local oversight improve public service delivery? We study the effect of a mobile phone application that allows citizens to monitor school construction projects in Brazilian municipalities. The app prompts users to submit data about construction sites, sends such crowdsourced information to independent engineers, and contacts the mayors’ offices about project delays. Our results show that the app has a null impact on school construction indicators. Additionally, we find that politicians are unresponsive to individual requests. The results question the impact of bottom-up monitoring on public service performance and suggest that interventions targeted at other groups, or focused on different issues, may produce better policy outcomes.</p>
       </details>
     </article>
   </div>
