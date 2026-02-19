@@ -27,6 +27,24 @@ description: Working papers e publicações de Manoel Galdino.
     </article>
 
     <article class="paper-card">
+      <h3>Quão Sensíveis São as Conclusões de Process Tracing? Replicações com Bayesian Process Tracing</h3>
+      <p class="paper-meta">Projeto em desenvolvimento. Texto completo indisponível ao público nesta fase.</p>
+      <details>
+        <summary>Resumo</summary>
+        <p>Este working paper replica estudos aplicados que usam process tracing para avaliar o quanto suas conclusões dependem da interpretação qualitativa das evidências. O desenho combina Bayesian process tracing com a tipologia de testes de Van Evera (hoop, smoking gun, doubly decisive e straw-in-the-wind), traduzindo leituras alternativas de evidência em atualizações probabilísticas explícitas. A meta é estimar a sensibilidade das inferências publicadas a escolhas plausíveis de codificação e força probatória. O projeto contribui para tornar diagnósticos causais qualitativos mais transparentes, comparáveis e reproduzíveis.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
+      <h3>Posterior Predictive Checks para Bayesian Process Tracing: Validando a Verossimilhança das Evidências</h3>
+      <p class="paper-meta">Projeto em desenvolvimento. Texto completo indisponível ao público nesta fase.</p>
+      <details>
+        <summary>Resumo</summary>
+        <p>Este working paper adapta posterior predictive checks ao Bayesian process tracing para avaliar se a verossimilhança escolhida para modelar evidências é empiricamente plausível. A proposta compara padrões observados com distribuições preditivas geradas pelo modelo para detectar desalinhamentos sistemáticos entre dados e especificação. Quando houver falta de ajuste, o framework oferece diagnósticos para revisar parâmetros e estrutura da verossimilhança. A contribuição central é introduzir uma rotina formal de validação que aumente calibragem, transparência e confiança na inferência causal qualitativa.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
       <h3>The Foreign Policy Impact of Trade-Based Status Gains: When China Overtakes the US as Top Trade Partner</h3>
       <p class="paper-meta">Economia Política Internacional. Versão de 2026-02-18. Manuscrito em preparação; texto completo indisponível ao público nesta fase.</p>
       <details>
