@@ -16,7 +16,7 @@ description: Bio, research agenda, CSEX Lab, and PET Social Sciences activities.
 
 <section class="bio-layout" aria-labelledby="bio-overview">
   <article class="bio-copy" id="bio-overview">
-    <p>My research focuses on accountability, causal inference, and political behavior, with emphasis on how institutions and civil society shape policy implementation in Brazil.</p>
+    <p>My main research line is International Political Economy, with emphasis on international trade, status, and foreign policy alignment. I also work on accountability, causal inference, and political behavior, including policy implementation in Brazil.</p>
     <p>I work with field experiments, mixed-method strategies, and transparent empirical workflows. This website is organized to make my research agenda, working papers, and publications easy to find and read.</p>
     <p>In addition to research activities, I coordinate the <a href="{{ '/en/csex/' | relative_url }}">CSEX Lab</a> and serve as <strong>Tutor</strong> in <strong>PET Social Sciences</strong>.</p>
     <div class="actions-row">
