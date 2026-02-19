@@ -57,9 +57,9 @@ description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciê
     <article class="featured-card">
       <div class="featured-top peach"></div>
       <div class="featured-body">
-        <h3>Efeitos de OSCs em Políticas Públicas</h3>
-        <p>Análise de métodos mistos sobre intervenções organizadas da sociedade civil em accountability.</p>
-        <a class="callout-link" href="https://osf.io/preprints/socarxiv/s82dn">Ler working paper &gt;</a>
+        <h3>OSCs e Entrega de Serviços Públicos</h3>
+        <p>Versão 2026 do paper sobre monitoramento de obras e accountability bottom-up no Brasil.</p>
+        <a class="callout-link" href="{{ '/assets/papers/cso-monitoring-2026.pdf' | relative_url }}">Ler working paper &gt;</a>
       </div>
     </article>
 

@@ -11,23 +11,24 @@ description: Working papers and publications by Manoel Galdino.
 <section class="page-header">
   <p class="eyebrow">Research</p>
   <h1 class="page-title">Research Agenda and Publications</h1>
-  <p class="page-intro">This page lists current working papers, a selected peer-reviewed publication, and opportunities for student collaboration.</p>
+  <p class="page-intro">This page lists current working papers, manuscripts under review, accepted/published articles, and opportunities for student collaboration.</p>
 </section>
 
 <section class="section-block" aria-labelledby="working-papers">
   <h2 id="working-papers">Working Papers</h2>
   <div class="paper-list">
     <article class="paper-card">
-      <h3><a href="https://osf.io/preprints/socarxiv/s82dn">The Civil Society Organizations Effect: A Mixed-Methods Analysis of Bottom-Up Accountability in Brazilian Public Policy</a></h3>
-      <p class="paper-meta">With Juliana Sakai, Bianca Mondo, and Natália Paiva.</p>
+      <h3><a href="{{ '/assets/papers/cso-monitoring-2026.pdf' | relative_url }}">Can Civil Society Organizations Improve Public Service Delivery? Evidence from Construction Monitoring in Brazil</a></h3>
+      <p class="paper-meta">With Juliana Sakai, Bianca Mondo, and Natália Paiva. Updated 2026 version.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This paper examines the effect of bottom-up accountability on public service delivery. We differentiate information-driven interventions from sustained mobilization and monitoring by civil society organizations (CSOs). Using evidence from the Obra Transparente project, we show that socially embedded CSOs that engage public officials and keep complaints visible can produce more substantial outcomes than isolated citizen reporting.</p>
+        <p>This paper examines the effect of bottom-up accountability on public service delivery. Using the Obra Transparente intervention and a difference-in-differences design, the results indicate meaningful increases in construction completion rates when organized CSOs combine sustained monitoring, mobilization, and direct engagement with public officials.</p>
       </details>
     </article>
 
     <article class="paper-card">
-      <h3><a href="https://github.com/mgaldino/quali-credibility/blob/main/paper_dados_format_quali_v4.pdf">As implicações metodológicas da Revolução da Credibilidade e Inferência Bayesiana para a pesquisa qualitativa causal</a></h3>
+      <h3><a href="{{ '/assets/papers/quali-credibility-v7.pdf' | relative_url }}">As implicações metodológicas da Revolução da Credibilidade e Inferência Bayesiana para a pesquisa qualitativa causal</a></h3>
+      <p class="paper-meta">Status: submitted to <em>Brazilian Political Science Review (BPSR)</em>.</p>
       <details>
         <summary>Resumo (Portuguese)</summary>
         <p>Este trabalho discute as implicações da Revolução da Credibilidade para estudos qualitativos causais. O argumento central é que, ao separar identificação causal de inferência estatística e incorporar inferência Bayesiana, parte importante das críticas tradicionais aos métodos qualitativos perde força analítica.</p>
@@ -35,27 +36,32 @@ description: Working papers and publications by Manoel Galdino.
     </article>
 
     <article class="paper-card">
-      <h3><a href="https://github.com/juliatachima/MFT_IC/blob/main/Manuscripts/article_MFT_Galdino_Tachima.pdf">Efeito dos fundamentos morais sobre o engajamento político em redes sociais: um estudo experimental de campo</a></h3>
+      <h3><a href="{{ '/assets/papers/mft-galdino-tachima.pdf' | relative_url }}">Efeito dos fundamentos morais sobre o engajamento político em redes sociais: um estudo experimental de campo</a></h3>
       <p class="paper-meta">With Julia Tachima.</p>
       <details>
         <summary>Resumo (Portuguese)</summary>
         <p>Estudo experimental de campo, em parceria com a organização Sou da Paz, sobre como apelos morais afetam engajamento político online em grupos com perfis ideológicos distintos. Os resultados indicam heterogeneidade substantiva na resposta a diferentes enquadramentos morais.</p>
       </details>
     </article>
+  </div>
+</section>
 
+<section class="section-block" aria-labelledby="accepted-forthcoming">
+  <h2 id="accepted-forthcoming">Accepted / Forthcoming</h2>
+  <div class="paper-list">
     <article class="paper-card">
-      <h3>The Effects of Elections on Affective Dynamics and Differentiation: A Longitudinal Study During the 2022 Brazilian Elections</h3>
-      <p class="paper-meta">With Adriano Costa, Elaine Torres, Mateus Silvestrin, Felix Atalaya, Thiago Desenzi, and Claudinei Biazoli.</p>
+      <h3>When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</h3>
+      <p class="paper-meta">With V. A. B. Lyra. Accepted at <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
       <details>
-        <summary>Abstract</summary>
-        <p>Using a nationally representative Brazilian panel (N = 1,793), this project evaluates how election outcomes shift emotional states and emotion differentiation. We document substantial changes in negative affect after the election and explore heterogeneity by ideological orientation.</p>
+        <summary>Note</summary>
+        <p>This article consolidates and replaces earlier Petrobras-PDVSA/Bolivia-Brazil gas crisis manuscript versions.</p>
       </details>
     </article>
   </div>
 </section>
 
 <section class="section-block" aria-labelledby="peer-reviewed">
-  <h2 id="peer-reviewed">Selected Peer-Reviewed Publication</h2>
+  <h2 id="peer-reviewed">Published (Peer-Reviewed)</h2>
   <div class="paper-list">
     <article class="paper-card">
       <h3><a href="https://journals.sagepub.com/doi/full/10.1177/2053168020914444">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></h3>

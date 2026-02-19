@@ -58,9 +58,9 @@ description: Bio, research agenda, CSEX Lab, and PET Social Sciences activities.
     <article class="featured-card">
       <div class="featured-top peach"></div>
       <div class="featured-body">
-        <h3>CSO Effects in Public Policy</h3>
-        <p>Mixed-method evidence on organized civil society interventions and accountability.</p>
-        <a class="callout-link" href="https://osf.io/preprints/socarxiv/s82dn">Read working paper &gt;</a>
+        <h3>CSOs and Public Service Delivery</h3>
+        <p>2026 version of the paper on construction monitoring and bottom-up accountability in Brazil.</p>
+        <a class="callout-link" href="{{ '/assets/papers/cso-monitoring-2026.pdf' | relative_url }}">Read working paper &gt;</a>
       </div>
     </article>
 
