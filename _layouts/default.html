@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: 'en-US' }}">
+<html lang="{{ page.lang_code | default: site.lang | default: 'en-US' }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -15,32 +15,72 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    <a class="skip-link" href="#main-content">Skip to main content</a>
+    {% assign is_en = page.language == 'en' %}
+    {% assign clean_url = page.url | replace: 'index.html', '' %}
+
+    {% if is_en %}
+      {% assign home_url = '/en/' %}
+      {% assign research_url = '/en/research/' %}
+      {% assign csex_url = '/en/csex/' %}
+      {% assign public_url = '/public-writing/' %}
+
+      {% assign nav_home = 'Bio' %}
+      {% assign nav_research = 'Research' %}
+      {% assign nav_csex = 'CSEX Lab' %}
+      {% assign nav_public = 'Public Writing (PT)' %}
+
+      {% assign cv_label = 'CV' %}
+      {% assign contact_label = 'Contact' %}
+      {% assign email_label = 'Email' %}
+      {% assign skip_label = 'Skip to main content' %}
+      {% assign footer_tagline = 'Research, CSEX Lab, and PET Social Sciences' %}
+    {% else %}
+      {% assign home_url = '/' %}
+      {% assign research_url = '/research/' %}
+      {% assign csex_url = '/csex/' %}
+      {% assign public_url = '/public-writing/' %}
+
+      {% assign nav_home = 'Bio' %}
+      {% assign nav_research = 'Pesquisa' %}
+      {% assign nav_csex = 'Laboratório CSEX' %}
+      {% assign nav_public = 'Escrita Pública' %}
+
+      {% assign cv_label = 'Currículo' %}
+      {% assign contact_label = 'Contato' %}
+      {% assign email_label = 'E-mail' %}
+      {% assign skip_label = 'Ir para o conteúdo principal' %}
+      {% assign footer_tagline = site.tagline %}
+    {% endif %}
+
+    <a class="skip-link" href="#main-content">{{ skip_label }}</a>
+
     <div class="site-shell">
       <header class="site-header" role="banner">
-        <a class="brand-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="brand-name" href="{{ home_url | relative_url }}">{{ site.title }}</a>
 
-        {% assign clean_url = page.url | replace: 'index.html', '' %}
         <nav aria-label="Primary">
           <ul class="site-nav">
             <li>
-              <a class="nav-link{% if clean_url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Bio</a>
+              <a class="nav-link{% if clean_url == home_url %} is-active{% endif %}" href="{{ home_url | relative_url }}">{{ nav_home }}</a>
             </li>
             <li>
-              <a class="nav-link{% if clean_url == '/research/' %} is-active{% endif %}" href="{{ '/research/' | relative_url }}">Pesquisa</a>
+              <a class="nav-link{% if clean_url == research_url %} is-active{% endif %}" href="{{ research_url | relative_url }}">{{ nav_research }}</a>
             </li>
             <li>
-              <a class="nav-link{% if clean_url == '/csex/' %} is-active{% endif %}" href="{{ '/csex/' | relative_url }}">Laboratório CSEX</a>
+              <a class="nav-link{% if clean_url == csex_url %} is-active{% endif %}" href="{{ csex_url | relative_url }}">{{ nav_csex }}</a>
             </li>
             <li>
-              <a class="nav-link{% if clean_url == '/public-writing/' %} is-active{% endif %}" href="{{ '/public-writing/' | relative_url }}">Escrita Pública</a>
+              <a class="nav-link{% if clean_url == public_url %} is-active{% endif %}" href="{{ public_url | relative_url }}">{{ nav_public }}</a>
             </li>
           </ul>
         </nav>
 
         <div class="header-actions">
-          <a class="btn btn-ghost" href="{{ site.cv_url }}">Currículo</a>
-          <a class="btn btn-solid" href="mailto:{{ site.email }}">Contato</a>
+          {% if page.alt_lang_url %}
+            <a class="btn btn-ghost" href="{{ page.alt_lang_url | relative_url }}">{% if is_en %}PT{% else %}EN{% endif %}</a>
+          {% endif %}
+          <a class="btn btn-ghost" href="{{ site.cv_url }}">{{ cv_label }}</a>
+          <a class="btn btn-solid" href="mailto:{{ site.email }}">{{ contact_label }}</a>
         </div>
       </header>
 
@@ -49,9 +89,9 @@
       </main>
 
       <footer class="site-footer">
-        <p class="footer-main">{{ site.title }} · {{ site.tagline }}</p>
+        <p class="footer-main">{{ site.title }} · {{ footer_tagline }}</p>
         <p class="footer-links">
-          <a href="mailto:{{ site.email }}">E-mail</a>
+          <a href="mailto:{{ site.email }}">{{ email_label }}</a>
           <a href="{{ site.social.bluesky }}">Bluesky</a>
           <a href="{{ site.social.github }}">GitHub</a>
         </p>

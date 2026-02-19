@@ -1,5 +1,8 @@
 ---
 layout: default
+language: pt
+lang_code: pt-BR
+alt_lang_url: /en/csex/
 title: Laboratório CSEX
 permalink: /csex/
 description: Atividades do Laboratório CSEX e tutoria no PET Ciências Sociais.

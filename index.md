@@ -1,5 +1,8 @@
 ---
 layout: default
+language: pt
+lang_code: pt-BR
+alt_lang_url: /en/
 title: Bio
 description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciências Sociais.
 ---

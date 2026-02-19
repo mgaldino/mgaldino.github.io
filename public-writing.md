@@ -1,5 +1,7 @@
 ---
 layout: default
+language: pt
+lang_code: pt-BR
 title: Escrita Pública
 permalink: /public-writing/
 description: Artigos de opinião e ensaios de Manoel Galdino.
