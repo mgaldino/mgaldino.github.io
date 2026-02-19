@@ -46,29 +46,23 @@ description: Working papers e publicações de Manoel Galdino.
   </div>
 </section>
 
-<section class="section-block" aria-labelledby="accepted-forthcoming">
-  <h2 id="accepted-forthcoming">Aceitos / Forthcoming</h2>
+<section class="section-block" aria-labelledby="accepted-published">
+  <h2 id="accepted-published">Aceitos e Publicados</h2>
   <div class="paper-list">
     <article class="paper-card">
       <h3>When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</h3>
       <p class="paper-meta">Com V. A. B. Lyra. Aceito na <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
       <details>
-        <summary>Nota</summary>
-        <p>Este artigo consolida e substitui versões anteriores de manuscritos sobre Petrobras-PDVSA e a crise do gás Bolívia-Brasil.</p>
+        <summary>Resumo</summary>
+        <p>O artigo analisa a crise do gás entre Bolívia e Brasil em 2006 com teoria dos jogos supermodulares e evidências de cabos diplomáticos. O argumento central é que, em contextos de interdependência e intervenção de terceiros, assimetrias de poder não impedem que o ator mais fraco melhore sua posição de barganha e imponha custos ao ator regionalmente dominante.</p>
       </details>
     </article>
-  </div>
-</section>
-
-<section class="section-block" aria-labelledby="peer-reviewed">
-  <h2 id="peer-reviewed">Publicados (Revisados por Pares)</h2>
-  <div class="paper-list">
     <article class="paper-card">
       <h3><a href="https://journals.sagepub.com/doi/full/10.1177/2053168020914444">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></h3>
       <p class="paper-meta">Com Danilo Freire e Umberto Mignozzetti. <em>Research &amp; Politics</em>, 7(2), 2020.</p>
       <details>
-        <summary>Abstract</summary>
-        <p>We evaluate a mobile-phone intervention that enabled citizens to monitor school construction in Brazilian municipalities. The study finds null average effects and suggests that individual monitoring requests are often insufficient to shift local government behavior.</p>
+        <summary>Resumo</summary>
+        <p>O estudo avalia uma intervenção por celular que permitiu a cidadãos monitorar obras escolares em municípios brasileiros. Os resultados mostram efeito médio nulo e sugerem que solicitações individuais de monitoramento, isoladamente, tendem a ser insuficientes para alterar o comportamento de governos locais.</p>
       </details>
     </article>
   </div>
