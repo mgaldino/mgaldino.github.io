@@ -18,6 +18,15 @@ description: Working papers e publicações de Manoel Galdino.
   <h2 id="working-papers">Working Papers</h2>
   <div class="paper-list">
     <article class="paper-card">
+      <h3>Projeto de Tese de Livre-Docência: Medindo a Ordem Internacional Liberal</h3>
+      <p class="paper-meta">Projeto em andamento.</p>
+      <details>
+        <summary>Resumo</summary>
+        <p>O projeto da minha tese de Livre-Docência investiga se a Ordem Internacional Liberal (LIO) está em erosão substantiva ou em reorganização estrutural. O argumento central é que esse debate permanece inconclusivo porque faltam medidas empíricas sistemáticas da LIO ao longo do tempo. Para enfrentar esse problema, o projeto combina quatro estratégias: (1) estimação de uma medida latente de apoio à LIO com modelos IRT dinâmicos aplicados à ratificação de tratados em múltiplos domínios; (2) análise do conteúdo substantivo dos tratados com graded IRT e codificação assistida por LLM; (3) mensuração de abertura comercial por uma tipologia bidimensional baseada em nível tarifário e universalidade (MFN vs. preferencial); e (4) desenvolvimento de um modelo formal de teoria dos jogos para microfundamentar as decisões estatais de adesão a compromissos internacionais. A contribuição esperada é oferecer uma medida quantitativa comparável da LIO, distinguir adesão formal de adesão substantiva e avaliar, com maior precisão, dinâmicas de transformação da ordem internacional em nível sistêmico ao longo do tempo.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
       <h3>The Foreign Policy Impact of Trade-Based Status Gains: When China Overtakes the US as Top Trade Partner</h3>
       <p class="paper-meta">Economia Política Internacional. Versão de 2026-02-18. Manuscrito em preparação; texto completo indisponível ao público nesta fase.</p>
       <details>

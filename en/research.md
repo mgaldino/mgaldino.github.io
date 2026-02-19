@@ -18,6 +18,15 @@ description: Working papers and publications by Manoel Galdino.
   <h2 id="working-papers">Working Papers</h2>
   <div class="paper-list">
     <article class="paper-card">
+      <h3>Habilitation Thesis Project: Measuring the International Liberal Order</h3>
+      <p class="paper-meta">Ongoing project.</p>
+      <details>
+        <summary>Abstract</summary>
+        <p>This project investigates whether the International Liberal Order (ILO) is in substantive erosion or structural reorganization. The core argument is that this debate remains inconclusive because we still lack systematic empirical measures of the ILO over time. To address this gap, the project combines four strategies: (1) estimation of a latent measure of support for the ILO using dynamic IRT models applied to treaty ratification across multiple domains; (2) analysis of the substantive content of treaties with graded IRT and LLM-assisted coding; (3) measurement of trade openness through a two-dimensional typology based on tariff levels and universality (MFN vs. preferential); and (4) development of a formal game-theoretic model to microfound state decisions to join international commitments. The expected contribution is to provide a comparable quantitative measure of the ILO, distinguish formal from substantive adherence, and evaluate, with greater precision, systemic-level dynamics of transformation in the international order over time.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
       <h3>The Foreign Policy Impact of Trade-Based Status Gains: When China Overtakes the US as Top Trade Partner</h3>
       <p class="paper-meta">International Political Economy. Version dated 2026-02-18. Manuscript in progress; full text not publicly available at this stage.</p>
       <details>
