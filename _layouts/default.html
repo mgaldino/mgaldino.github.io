@@ -18,30 +18,29 @@
     <a class="skip-link" href="#main-content">Skip to main content</a>
     <div class="site-shell">
       <header class="site-header" role="banner">
-        <div class="brand-block">
-          <p class="brand-kicker">{{ site.kicker }}</p>
-          <a class="brand-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-          <p class="brand-subtitle">{{ site.tagline }}</p>
-        </div>
+        <a class="brand-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
 
         {% assign clean_url = page.url | replace: 'index.html', '' %}
         <nav aria-label="Primary">
           <ul class="site-nav">
             <li>
-              <a class="nav-link{% if clean_url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+              <a class="nav-link{% if clean_url == '/' %} is-active{% endif %}" href="{{ '/' | relative_url }}">Bio</a>
             </li>
             <li>
-              <a class="nav-link{% if clean_url == '/research/' %} is-active{% endif %}" href="{{ '/research/' | relative_url }}">Research</a>
+              <a class="nav-link{% if clean_url == '/research/' %} is-active{% endif %}" href="{{ '/research/' | relative_url }}">Pesquisa</a>
             </li>
             <li>
-              <a class="nav-link{% if clean_url == '/public-writing/' %} is-active{% endif %}" href="{{ '/public-writing/' | relative_url }}">Public Writing</a>
+              <a class="nav-link{% if clean_url == '/csex/' %} is-active{% endif %}" href="{{ '/csex/' | relative_url }}">Laboratório CSEX</a>
+            </li>
+            <li>
+              <a class="nav-link{% if clean_url == '/public-writing/' %} is-active{% endif %}" href="{{ '/public-writing/' | relative_url }}">Escrita Pública</a>
             </li>
           </ul>
         </nav>
 
         <div class="header-actions">
-          <a class="btn btn-ghost" href="{{ site.cv_url }}">CV</a>
-          <a class="btn btn-solid" href="mailto:{{ site.email }}">Contact</a>
+          <a class="btn btn-ghost" href="{{ site.cv_url }}">Currículo</a>
+          <a class="btn btn-solid" href="mailto:{{ site.email }}">Contato</a>
         </div>
       </header>
 
@@ -50,9 +49,9 @@
       </main>
 
       <footer class="site-footer">
-        <p class="footer-main">{{ site.title }} · {{ site.kicker }}</p>
+        <p class="footer-main">{{ site.title }} · {{ site.tagline }}</p>
         <p class="footer-links">
-          <a href="mailto:{{ site.email }}">Email</a>
+          <a href="mailto:{{ site.email }}">E-mail</a>
           <a href="{{ site.social.bluesky }}">Bluesky</a>
           <a href="{{ site.social.github }}">GitHub</a>
         </p>

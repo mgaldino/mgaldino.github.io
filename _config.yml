@@ -1,15 +1,29 @@
 title: Manoel Galdino
 email: mgaldino@usp.br
 description: >-
-  Political scientist at Universidade de São Paulo working on accountability,
-  causal inference, public policy, and political behavior.
+  Cientista político na Universidade de São Paulo, com pesquisa em
+  accountability, inferência causal, políticas públicas e comportamento político.
 baseurl: ""
 url: "https://mgaldino.github.io"
-lang: en-US
+lang: pt-BR
 
-kicker: Political Science
-tagline: Assistant Professor at Universidade de São Paulo
+kicker: Ciência Política
+tagline: Pesquisa, Laboratório CSEX e PET Ciências Sociais
 cv_url: "http://lattes.cnpq.br/9398710384205803"
+
+csex:
+  name: Laboratório CSEX
+  url: "/csex/"
+  summary: >-
+    Espaço colaborativo de pesquisa focado em análise causal, accountability
+    e ciência política empírica.
+
+pet:
+  name: PET Ciências Sociais
+  role: Tutor
+  summary: >-
+    Formação acadêmica, treinamento em pesquisa e orientação de projetos para
+    estudantes de graduação.
 
 social:
   bluesky: "https://bsky.app/profile/mgaldino.bsky.social"
