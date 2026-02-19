@@ -1,25 +1,56 @@
 ---
 layout: default
-title: "Public-writing"
+title: Public Writing
 permalink: /public-writing/
+description: Opinion pieces and essays by Manoel Galdino.
 ---
 
-### Op-eds (in Portuguese)
+# Public Writing
 
-- [Proibição ou limites para doação empresarial em campanhas eleitorais?](https://www1.folha.uol.com.br/opiniao/2024/10/proibicao-ou-limites-para-doacao-empresarial-em-campanhas-eleitorais.shtml). 26-10-2024, Folha de São Paulo.
+<p class="page-intro">Selected opinion pieces and essays, mostly in Portuguese.</p>
 
-- [Desigualdades e Identidades na Política Brasileira](https://www1.folha.uol.com.br/opiniao/2024/09/desigualdades-e-identidades-na-politica-brasileira.shtml). 14-09-2024, Folha de São Paulo.
-
-- [Gaslithing Intelectual](https://www1.folha.uol.com.br/opiniao/2024/09/gaslighting-intelectual.shtml). 07-09-2024, Folha de São Paulo.
-
-- [Racismo negado](https://quatrocincoum.com.br/resenhas/desigualdades/racismo-negado/). 01-11-2023. Resenha do livro de Muniz Sodré, O fascismo da cor: uma radiografia do racismo nacional, publicado na Revista 451.
-
-- [O inverno está chegando para a transparência pública](https://www1.folha.uol.com.br/opiniao/2021/10/o-inverno-esta-chegando-para-a-transparencia-publica.shtml). 05-10-2021, Folha de São Paulo.
-
-- [Enquanto a saúde colapsa, dados seguem escondidos](https://www1.folha.uol.com.br/opiniao/2021/02/enquanto-a-saude-colapsa-dados-seguem-escondidos.shtml). Com Fernanda Campagnucci e Laila Belix. 01/02/2021, Folha de São Paulo.
-
-- [Enquanto a saúde colapsa, dados seguem escondidos](https://www1.folha.uol.com.br/opiniao/2021/02/enquanto-a-saude-colapsa-dados-seguem-escondidos.shtml). Com Fernanda Campagnucci e Laila Belix. 01/02/2021, Folha de São Paulo.
-
-- [Como dados e transparência podem ajudar no combate ao coronavírus](https://www1.folha.uol.com.br/equilibrioesaude/2020/03/como-dados-e-transparencia-podem-ajudar-no-combate-ao-coronavirus.shtml). 21-03-2020, Folha de São Paulo.
-
-- [PEC da corrupção](https://www1.folha.uol.com.br/opiniao/2019/04/pec-da-corrupcao.shtml). 17-04-2019, Folha de São Paulo.
+<section class="section-block" aria-labelledby="op-eds-list">
+  <h2 id="op-eds-list">Op-Eds</h2>
+  <ol class="timeline">
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2024/10/proibicao-ou-limites-para-doacao-empresarial-em-campanhas-eleitorais.shtml">Proibição ou limites para doação empresarial em campanhas eleitorais?</a>
+      <br>
+      26 Oct 2024 · Folha de S.Paulo
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2024/09/desigualdades-e-identidades-na-politica-brasileira.shtml">Desigualdades e identidades na política brasileira</a>
+      <br>
+      14 Sep 2024 · Folha de S.Paulo
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2024/09/gaslighting-intelectual.shtml">Gaslighting intelectual</a>
+      <br>
+      7 Sep 2024 · Folha de S.Paulo
+    </li>
+    <li>
+      <a href="https://quatrocincoum.com.br/resenhas/desigualdades/racismo-negado/">Racismo negado</a>
+      <br>
+      1 Nov 2023 · Revista Quatro Cinco Um
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2021/10/o-inverno-esta-chegando-para-a-transparencia-publica.shtml">O inverno está chegando para a transparência pública</a>
+      <br>
+      5 Oct 2021 · Folha de S.Paulo
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2021/02/enquanto-a-saude-colapsa-dados-seguem-escondidos.shtml">Enquanto a saúde colapsa, dados seguem escondidos</a>
+      <br>
+      1 Feb 2021 · Folha de S.Paulo (with Fernanda Campagnucci and Laila Belix)
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/equilibrioesaude/2020/03/como-dados-e-transparencia-podem-ajudar-no-combate-ao-coronavirus.shtml">Como dados e transparência podem ajudar no combate ao coronavírus</a>
+      <br>
+      21 Mar 2020 · Folha de S.Paulo
+    </li>
+    <li>
+      <a href="https://www1.folha.uol.com.br/opiniao/2019/04/pec-da-corrupcao.shtml">PEC da corrupção</a>
+      <br>
+      17 Apr 2019 · Folha de S.Paulo
+    </li>
+  </ol>
+</section>
