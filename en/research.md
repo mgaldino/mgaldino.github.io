@@ -11,27 +11,20 @@ description: Working papers and publications by Manoel Galdino.
 <section class="page-header">
   <p class="eyebrow">Research</p>
   <h1 class="page-title">Research Agenda and Publications</h1>
-  <p class="page-intro">This page lists current working papers, with International Political Economy as the main research line, alongside manuscripts under review, accepted/published articles, and opportunities for student collaboration.</p>
+  <p class="page-intro">My research agenda combines formal modeling, causal inference, and Bayesian methods to study how political institutions work — and how they could work better. Below, projects are organized by research line, starting with my central project on the International Liberal Order.</p>
 </section>
 
-<section class="section-block" aria-labelledby="working-papers">
-  <h2 id="working-papers">Working Papers</h2>
+<section class="section-block" aria-labelledby="central-project">
+  <h2 id="central-project">Central Project: The International Liberal Order</h2>
+  <p>Is the International Liberal Order in substantive erosion or structural reorganization? This debate remains inconclusive because we lack systematic measures of adherence over time. My habilitation thesis develops such measures, combining item response theory, content analysis, and formal modeling to distinguish formal from substantive institutional commitment. Related papers in this line examine how trade-based status shifts reshape foreign policy alignment, and how asymmetric interdependence shapes bargaining outcomes.</p>
+
   <div class="paper-list">
     <article class="paper-card">
-      <h3>How Sensitive Are Process Tracing Conclusions? Replications with Bayesian Process Tracing</h3>
-      <p class="paper-meta">Project in progress. Full text not publicly available at this stage.</p>
+      <h3>Measuring the International Liberal Order</h3>
+      <p class="paper-meta">Habilitation thesis. Ongoing project.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This working paper replicates applied studies that use process tracing to assess how much their conclusions depend on qualitative interpretations of evidence. The design combines Bayesian process tracing with Van Evera’s test typology (hoop, smoking gun, doubly decisive, and straw-in-the-wind), translating alternative evidence readings into explicit probabilistic updates. The goal is to estimate how sensitive published inferences are to plausible choices about coding and evidentiary strength. The project aims to make qualitative causal diagnosis more transparent, comparable, and reproducible.</p>
-      </details>
-    </article>
-
-    <article class="paper-card">
-      <h3>Posterior Predictive Checks for Bayesian Process Tracing: Validating Evidence Likelihoods</h3>
-      <p class="paper-meta">Project in progress. Full text not publicly available at this stage.</p>
-      <details>
-        <summary>Abstract</summary>
-        <p>This working paper adapts posterior predictive checks to Bayesian process tracing to evaluate whether the likelihood specification used to model evidence is empirically plausible. The framework compares observed evidence patterns with model-generated predictive distributions to detect systematic mismatches between data and specification. When lack of fit appears, the approach provides diagnostics to revise parameters and likelihood structure. The central contribution is a formal validation routine that strengthens calibration, transparency, and confidence in qualitative causal inference.</p>
+        <p>This project investigates whether the International Liberal Order (ILO) is in substantive erosion or structural reorganization. The core argument is that this debate remains inconclusive because we still lack systematic empirical measures of the ILO over time. To address this gap, the project combines four strategies: (1) estimation of a latent measure of support for the ILO using dynamic IRT models applied to treaty ratification across multiple domains; (2) analysis of the substantive content of treaties with graded IRT and LLM-assisted coding; (3) measurement of trade openness through a two-dimensional typology based on tariff levels and universality (MFN vs. preferential); and (4) development of a formal game-theoretic model to microfound state decisions to join international commitments. The expected contribution is to provide a comparable quantitative measure of the ILO, distinguish formal from substantive adherence, and evaluate, with greater precision, systemic-level dynamics of transformation in the international order over time.</p>
       </details>
     </article>
 
@@ -45,29 +38,45 @@ description: Working papers and publications by Manoel Galdino.
     </article>
 
     <article class="paper-card">
+      <h3>When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</h3>
+      <p class="paper-meta">With V. A. B. Lyra. Accepted at <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
+      <details>
+        <summary>Abstract</summary>
+        <p>This study analyzes the 2006 Bolivia-Brazil gas negotiations using supermodular game theory and leveraging unprecedented analysis of diplomatic cables. Our puzzle, from a rationalist perspective, is how a small power can prevail over a regional leader. While traditional theories suggest interdependence fosters cooperation, this case reveals it can harden positions and intensify bargaining crises when external actors intervene. By modeling strategic interactions between Bolivia, Brazil, and Venezuela, the study highlights how Venezuelan support strengthened Bolivia’s stance. The nationalization of hydrocarbons constrained Brazil’s response, as Lula faced domestic political limitations. The findings challenge conventional views by demonstrating that interdependence can trigger crises. The supermodular model contributes to the literature on international negotiations and energy diplomacy by providing a formalized approach to understanding bargaining rigidity in resource-driven disputes.</p>
+      </details>
+    </article>
+  </div>
+</section>
+
+<section class="section-block" aria-labelledby="methods">
+  <h2 id="methods">Methodological Contributions</h2>
+  <p>When existing tools are insufficient for the question at hand, I develop new ones — bringing quantitative diagnostics to qualitative inference, and formal bias expressions to applied researchers.</p>
+
+  <div class="paper-list">
+    <article class="paper-card">
+      <h3>Posterior Predictive Checks for Bayesian Process Tracing: Validating Evidence Likelihoods</h3>
+      <p class="paper-meta">Project in progress. Full text not publicly available at this stage.</p>
+      <details>
+        <summary>Abstract</summary>
+        <p>This working paper adapts posterior predictive checks to Bayesian process tracing to evaluate whether the likelihood specification used to model evidence is empirically plausible. The framework compares observed evidence patterns with model-generated predictive distributions to detect systematic mismatches between data and specification. When lack of fit appears, the approach provides diagnostics to revise parameters and likelihood structure. The central contribution is a formal validation routine that strengthens calibration, transparency, and confidence in qualitative causal inference.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
+      <h3>How Sensitive Are Process Tracing Conclusions? Replications with Bayesian Process Tracing</h3>
+      <p class="paper-meta">Project in progress. Full text not publicly available at this stage.</p>
+      <details>
+        <summary>Abstract</summary>
+        <p>This working paper replicates applied studies that use process tracing to assess how much their conclusions depend on qualitative interpretations of evidence. The design combines Bayesian process tracing with Van Evera’s test typology (hoop, smoking gun, doubly decisive, and straw-in-the-wind), translating alternative evidence readings into explicit probabilistic updates. The goal is to estimate how sensitive published inferences are to plausible choices about coding and evidentiary strength. The project aims to make qualitative causal diagnosis more transparent, comparable, and reproducible.</p>
+      </details>
+    </article>
+
+    <article class="paper-card">
       <h3>Included Variable Bias: A Formula for Collider Bias in Cross-Sectional and Time-Series Cross-Sectional Regressions</h3>
       <p class="paper-meta">With Davi Moreira and Carolina Dolleans. February 2026. Manuscript in progress; full text not publicly available at this stage.</p>
       <details>
         <summary>Abstract</summary>
         <p>The selection of control variables is a critical step in observational studies, yet standard heuristics can inadvertently lead researchers to include collider variables, introducing bias rather than removing it. While Directed Acyclic Graphs (DAGs) can diagnose whether a variable is a collider, they do not quantify the magnitude of the resulting bias. We derive the Included Variable Bias (IVB) formula—a closed-form expression that mirrors the classic Omitted Variable Bias (OVB) formula but addresses the opposite problem: the bias from erroneously including a variable. We show that IVB = −θ⋆ × π, where both components are directly estimable from data. We extend the result from cross-sectional models to the Autoregressive Distributed Lag (ADL) specifications common in time-series cross-sectional (TSCS) analysis. Monte Carlo simulations confirm the formula’s exactness across multiple data-generating processes, and we illustrate its application with an example from the civil war literature.</p>
-      </details>
-    </article>
-
-    <article class="paper-card">
-      <h3><a href="{{ '/assets/papers/cso-monitoring-2026.pdf' | relative_url }}">Can Civil Society Organizations Improve Public Service Delivery? Evidence from Construction Monitoring in Brazil</a></h3>
-      <p class="paper-meta">With Juliana Sakai, Bianca Mondo, and Natália Paiva. Updated 2026 version.</p>
-      <details>
-        <summary>Abstract</summary>
-        <p>This paper examines the effect of bottom-up accountability on public service delivery. We differentiate between information-driven interventions and the mobilization and monitoring efforts of organized Civil Society Organizations (CSOs), and argue that the latter type of interventions can drive significant policy change. The study evaluates the effectiveness of the Obra Transparente project by Brazilian NGO Transparência Brasil, engaging 21 local CSOs in South and Southeast Brazil. Using a difference-in-differences design, we estimate that the intervention increased construction completion rates by approximately 8 percentage points on average (static specification), with suggestive evidence that the dynamic effect may reach up to 18 percentage points approximately five years after the start of the intervention, though this estimate should be interpreted with caution due to a gap in data collection spanning the COVID-19 pandemic. Our findings emphasize the importance of sustained, coordinated efforts by socially embedded CSOs. These efforts, involving direct engagement with municipal officials and ensuring that their complaints cannot be ignored, lead to more substantial outcomes when compared with information-driven interventions targeting individual citizens.</p>
-      </details>
-    </article>
-
-    <article class="paper-card">
-      <h3><a href="{{ '/assets/papers/mft-galdino-tachima.pdf' | relative_url }}">Efeito dos fundamentos morais sobre o engajamento político em redes sociais: um estudo experimental de campo</a></h3>
-      <p class="paper-meta">With Julia Tachima.</p>
-      <details>
-        <summary>Abstract</summary>
-        <p>Este estudo investiga a influência dos fundamentos morais no engajamento político em mídias sociais em contextos não eleitorais no Brasil. Utilizando a Teoria dos Fundamentos Morais (MFT), exploramos como apelos morais direcionados — como autoridade e lealdade para públicos conservadores — impactam os níveis de engajamento (curtidas, comentários, compartilhamentos) em plataformas como Facebook e Instagram. Em parceria com a organização da sociedade civil Sou da Paz, conduzimos um experimento de campo direcionado a grupos ideologicamente distintos, incluindo Progressistas, Conservadores Cristãos, Empreendedores e pessoas de baixa renda. Cada grupo recebeu mensagens impulsionadas sobre uso de câmeras corporais por policiais. Nossos resultados indicam que a estruturação moral das mensagens aumentou significativamente o engajamento, com segmentos conservadores apresentando até 30% mais engajamento do que progressistas, que receberam mensagens neutras. Esses resultados contribuem para os campos da comunicação política, demonstrando como a segmentação ideológica e os apelos morais podem intensificar o engajamento online no Sul Global. O estudo oferece insights práticos para organizações da sociedade civil que buscam mobilizar apoiadores e influenciar o discurso público, ampliando a aplicação da MFT para novos contextos sociopolíticos e geográficos.</p>
       </details>
     </article>
 
@@ -82,17 +91,20 @@ description: Working papers and publications by Manoel Galdino.
   </div>
 </section>
 
-<section class="section-block" aria-labelledby="accepted-published">
-  <h2 id="accepted-published">Accepted and Published</h2>
+<section class="section-block" aria-labelledby="governance">
+  <h2 id="governance">Governance and Accountability</h2>
+  <p>Can monitoring and civic engagement improve how governments deliver public services? This line draws on my experience as executive director of Transparência Brasil (2016–2022).</p>
+
   <div class="paper-list">
     <article class="paper-card">
-      <h3>When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</h3>
-      <p class="paper-meta">With V. A. B. Lyra. Accepted at <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
+      <h3><a href="{{ '/assets/papers/cso-monitoring-2026.pdf' | relative_url }}">Can Civil Society Organizations Improve Public Service Delivery? Evidence from Construction Monitoring in Brazil</a></h3>
+      <p class="paper-meta">With Juliana Sakai, Bianca Mondo, and Natália Paiva. Updated 2026 version.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This study analyzes the 2006 Bolivia-Brazil gas negotiations using supermodular game theory and leveraging unprecedented analysis of diplomatic cables. Our puzzle, from a rationalist perspective, is how a small power can prevail over a regional leader. While traditional theories suggest interdependence fosters cooperation, this case reveals it can harden positions and intensify bargaining crises when external actors intervene. By modeling strategic interactions between Bolivia, Brazil, and Venezuela, the study highlights how Venezuelan support strengthened Bolivia’s stance. The nationalization of hydrocarbons constrained Brazil’s response, as Lula faced domestic political limitations. The findings challenge conventional views by demonstrating that interdependence can trigger crises. The supermodular model contributes to the literature on international negotiations and energy diplomacy by providing a formalized approach to understanding bargaining rigidity in resource-driven disputes.</p>
+        <p>This paper examines the effect of bottom-up accountability on public service delivery. We differentiate between information-driven interventions and the mobilization and monitoring efforts of organized Civil Society Organizations (CSOs), and argue that the latter type of interventions can drive significant policy change. The study evaluates the effectiveness of the Obra Transparente project by Brazilian NGO Transparência Brasil, engaging 21 local CSOs in South and Southeast Brazil. Using a difference-in-differences design, we estimate that the intervention increased construction completion rates by approximately 8 percentage points on average (static specification), with suggestive evidence that the dynamic effect may reach up to 18 percentage points approximately five years after the start of the intervention, though this estimate should be interpreted with caution due to a gap in data collection spanning the COVID-19 pandemic. Our findings emphasize the importance of sustained, coordinated efforts by socially embedded CSOs. These efforts, involving direct engagement with municipal officials and ensuring that their complaints cannot be ignored, lead to more substantial outcomes when compared with information-driven interventions targeting individual citizens.</p>
       </details>
     </article>
+
     <article class="paper-card">
       <h3><a href="https://journals.sagepub.com/doi/full/10.1177/2053168020914444">Bottom-Up Accountability and Public Service Provision: Evidence from a Field Experiment in Brazil</a></h3>
       <p class="paper-meta">With Danilo Freire and Umberto Mignozzetti. <em>Research &amp; Politics</em>, 7(2), 2020.</p>
@@ -104,25 +116,15 @@ description: Working papers and publications by Manoel Galdino.
   </div>
 </section>
 
-<section class="section-block" aria-labelledby="student-collaboration">
-  <h2 id="student-collaboration">Student Collaboration and Advising</h2>
-  <p>I am especially interested in working with students who want to build strong empirical projects in political science.</p>
-  <ul class="contact-list">
-    <li>Typical topics: accountability, public policy implementation, causal inference, and political behavior.</li>
-    <li>Preferred profile: students willing to combine theory, transparent evidence, and reproducible workflows.</li>
-    <li>First contact: email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with a short research idea and current stage.</li>
-  </ul>
-</section>
-
-<section class="section-block" aria-labelledby="habilitation-project">
-  <h2 id="habilitation-project">Habilitation Thesis Project</h2>
+<section class="section-block" aria-labelledby="behavior">
+  <h2 id="behavior">Political Behavior</h2>
   <div class="paper-list">
     <article class="paper-card">
-      <h3>Habilitation Thesis Project: Measuring the International Liberal Order</h3>
-      <p class="paper-meta">Ongoing project.</p>
+      <h3><a href="{{ '/assets/papers/mft-galdino-tachima.pdf' | relative_url }}">Efeito dos fundamentos morais sobre o engajamento político em redes sociais: um estudo experimental de campo</a></h3>
+      <p class="paper-meta">With Julia Tachima.</p>
       <details>
         <summary>Abstract</summary>
-        <p>This project investigates whether the International Liberal Order (ILO) is in substantive erosion or structural reorganization. The core argument is that this debate remains inconclusive because we still lack systematic empirical measures of the ILO over time. To address this gap, the project combines four strategies: (1) estimation of a latent measure of support for the ILO using dynamic IRT models applied to treaty ratification across multiple domains; (2) analysis of the substantive content of treaties with graded IRT and LLM-assisted coding; (3) measurement of trade openness through a two-dimensional typology based on tariff levels and universality (MFN vs. preferential); and (4) development of a formal game-theoretic model to microfound state decisions to join international commitments. The expected contribution is to provide a comparable quantitative measure of the ILO, distinguish formal from substantive adherence, and evaluate, with greater precision, systemic-level dynamics of transformation in the international order over time.</p>
+        <p>Este estudo investiga a influência dos fundamentos morais no engajamento político em mídias sociais em contextos não eleitorais no Brasil. Utilizando a Teoria dos Fundamentos Morais (MFT), exploramos como apelos morais direcionados — como autoridade e lealdade para públicos conservadores — impactam os níveis de engajamento (curtidas, comentários, compartilhamentos) em plataformas como Facebook e Instagram. Em parceria com a organização da sociedade civil Sou da Paz, conduzimos um experimento de campo direcionado a grupos ideologicamente distintos, incluindo Progressistas, Conservadores Cristãos, Empreendedores e pessoas de baixa renda. Cada grupo recebeu mensagens impulsionadas sobre uso de câmeras corporais por policiais. Nossos resultados indicam que a estruturação moral das mensagens aumentou significativamente o engajamento, com segmentos conservadores apresentando até 30% mais engajamento do que progressistas, que receberam mensagens neutras. Esses resultados contribuem para os campos da comunicação política, demonstrando como a segmentação ideológica e os apelos morais podem intensificar o engajamento online no Sul Global. O estudo oferece insights práticos para organizações da sociedade civil que buscam mobilizar apoiadores e influenciar o discurso público, ampliando a aplicação da MFT para novos contextos sociopolíticos e geográficos.</p>
       </details>
     </article>
   </div>
@@ -134,4 +136,14 @@ description: Working papers and publications by Manoel Galdino.
     <li><a href="https://mgaldino.github.io/book-regression/">Introdução à Regressão</a></li>
     <li><a href="https://mgaldino.github.io/Teoria-dos-Jogos/">Introdução à Teoria dos Jogos</a></li>
   </ol>
+</section>
+
+<section class="section-block" aria-labelledby="student-collaboration">
+  <h2 id="student-collaboration">Student Collaboration and Advising</h2>
+  <p>I am especially interested in working with students who want to build strong empirical projects in political science.</p>
+  <ul class="contact-list">
+    <li>Typical topics: accountability, public policy implementation, causal inference, and political behavior.</li>
+    <li>Preferred profile: students willing to combine theory, transparent evidence, and reproducible workflows.</li>
+    <li>First contact: email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with a short research idea and current stage.</li>
+  </ul>
 </section>

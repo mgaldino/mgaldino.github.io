@@ -16,8 +16,9 @@ description: Bio, research agenda, CSEX Lab, and PET Social Sciences activities.
 
 <section class="bio-layout" aria-labelledby="bio-overview">
   <article class="bio-copy" id="bio-overview">
-    <p>My main research line is International Political Economy, with emphasis on international trade, status, and foreign policy alignment. I also work on accountability, causal inference, and political behavior, including policy implementation in Brazil.</p>
-    <p>I work with field experiments, mixed-method strategies, and transparent empirical workflows. This website is organized to make my research agenda, working papers, and publications easy to find and read.</p>
+    <p>My research investigates how political institutions — from the international liberal order to local public services — can better deliver on their promises. To do this, I combine tools that rarely travel together: formal models with empirical estimation, Bayesian inference with causal identification, and practical governance experience with academic rigor.</p>
+    <p>My central project develops the first systematic measure of state adherence to the International Liberal Order, addressing a fundamental empirical gap in current debates about whether we face a genuine crisis or a structural reorganization of the international system.</p>
+    <p>I also build methodological tools when existing ones fall short — from posterior predictive checks for Bayesian process tracing to closed-form formulas for collider bias — and study how accountability mechanisms can improve public service delivery, drawing on years of experience leading Transparência Brasil.</p>
     <p>In addition to research activities, I coordinate the <a href="{{ '/en/csex/' | relative_url }}">CSEX Lab</a> and serve as <strong>Tutor</strong> in <strong>PET Social Sciences</strong>.</p>
     <div class="actions-row">
       <a class="btn btn-solid" href="{{ '/en/research/' | relative_url }}">Research</a>
@@ -40,12 +41,27 @@ description: Bio, research agenda, CSEX Lab, and PET Social Sciences activities.
   </aside>
 </section>
 
+<section class="section-block" aria-labelledby="trajectory">
+  <h2 id="trajectory">Trajectory</h2>
+  <p>Before returning to academia full-time, I spent a decade outside it — and each phase shaped how I do research today. As a data scientist in the private sector (2012–2016), I learned to work with large-scale data, write production code, and manage teams using agile methods. As executive director of Transparência Brasil (2016–2022), I designed field experiments on public service delivery and saw firsthand how accountability works — and fails — in practice. A collaboration with the Social and Affective Neuroscience Lab at Mackenzie (2021) expanded my toolkit to experimental methods in political behavior.</p>
+  <p>These experiences feed a research style that values crossing boundaries: between formal theory and empirical estimation, between methodological innovation and substantive questions, between academic rigor and real-world relevance.</p>
+</section>
+
 <section aria-labelledby="featured-research">
   <div class="section-header">
     <h2 id="featured-research" class="section-title">Featured Research</h2>
   </div>
 
   <div class="featured-grid">
+    <article class="featured-card">
+      <div class="featured-top blue"></div>
+      <div class="featured-body">
+        <h3>Measuring the International Liberal Order</h3>
+        <p>Is the liberal order in crisis or reorganization? We still lack the empirical tools to tell. My central project builds systematic measures of state adherence over time, distinguishing formal commitment from substantive compliance.</p>
+        <a class="callout-link" href="{{ '/en/research/' | relative_url }}#central-project">Learn more &gt;</a>
+      </div>
+    </article>
+
     <article class="featured-card">
       <div class="featured-top teal"></div>
       <div class="featured-body">
