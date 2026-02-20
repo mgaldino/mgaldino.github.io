@@ -140,10 +140,10 @@ description: Working papers and publications by Manoel Galdino.
 
 <section class="section-block" aria-labelledby="student-collaboration">
   <h2 id="student-collaboration">Student Collaboration and Advising</h2>
-  <p>I am especially interested in working with students who want to build strong empirical projects in political science.</p>
+  <p>I welcome students interested in rigorous empirical projects connected to my main research lines.</p>
   <ul class="contact-list">
-    <li>Typical topics: accountability, public policy implementation, causal inference, and political behavior.</li>
-    <li>Preferred profile: students willing to combine theory, transparent evidence, and reproducible workflows.</li>
+    <li>Typical topics: International Political Economy (trade, status, and foreign policy alignment), the International Liberal Order, Bayesian and causal inference methods, governance and accountability, and political behavior.</li>
+    <li>Preferred profile: students willing to connect substantive questions with formal modeling, transparent evidence, and reproducible workflows.</li>
     <li>First contact: email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with a short research idea and current stage.</li>
   </ul>
 </section>
