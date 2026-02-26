@@ -142,8 +142,8 @@ description: Working papers and publications by Manoel Galdino.
   <h2 id="student-collaboration">Student Collaboration and Advising</h2>
   <p>I welcome students interested in rigorous empirical projects connected to my main research lines.</p>
   <ul class="contact-list">
-    <li>Typical topics: International Political Economy (trade, status, and foreign policy alignment), the International Liberal Order, Bayesian and causal inference methods, governance and accountability, and political behavior.</li>
-    <li>Preferred profile: students willing to connect substantive questions with formal modeling, transparent evidence, and reproducible workflows.</li>
+    <li>Typical topics: International Political Economy, the International Liberal Order, Foreign Policy, Bayesian and causal inference methods, formal modeling, governance and accountability, and political behavior.</li>
+    <li>Preferred profile: students willing to connect substantive questions with quantitative empirical evidence in the topics above.</li>
     <li>First contact: email me at <a href="mailto:{{ site.email }}">{{ site.email }}</a> with a short research idea and current stage.</li>
   </ul>
 </section>
