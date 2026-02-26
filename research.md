@@ -106,9 +106,9 @@ description: Working papers e publicações de Manoel Galdino.
 
 <section class="section-block" aria-labelledby="student-collaboration">
   <h2 id="student-collaboration">Orientação e Colaboração com Estudantes</h2>
-  <p>Tenho especial interesse em trabalhar com estudantes que desejam desenvolver projetos empíricos robustos em ciência política.</p>
+  <p>Tenho especial interesse em trabalhar com estudantes que desejam desenvolver projetos empíricos robustos em ciência política e Relações Internacionais.</p>
   <ul class="contact-list">
-    <li>Tópicos frequentes: accountability, implementação de políticas públicas, inferência causal e comportamento político.</li>
+    <li>Tópicos frequentes: Economia Política Internacional, Política Externa, accountability, Avaliação de políticas públicas, inferência causal e comportamento político.</li>
     <li>Perfil desejado: estudantes dispostos a combinar teoria, evidência transparente e fluxos de trabalho reproduzíveis.</li>
     <li>Primeiro contato: envie e-mail para <a href="mailto:{{ site.email }}">{{ site.email }}</a> com uma ideia breve de pesquisa e seu estágio atual.</li>
   </ul>
