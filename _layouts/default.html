@@ -15,10 +15,9 @@
     <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
   </head>
   <body>
-    {% assign is_en = page.language == 'en' %}
     {% assign clean_url = page.url | replace: 'index.html', '' %}
 
-    {% if is_en %}
+    {% if page.language == 'en' %}
       {% assign home_url = '/en/' %}
       {% assign research_url = '/en/research/' %}
       {% assign csex_url = '/en/csex/' %}
@@ -84,7 +83,7 @@
 
         <div class="header-actions">
           {% if page.alt_lang_url %}
-            <a class="btn btn-ghost" href="{{ page.alt_lang_url | relative_url }}">{% if is_en %}PT{% else %}EN{% endif %}</a>
+            <a class="btn btn-ghost" href="{{ page.alt_lang_url | relative_url }}">{% if page.language == 'en' %}PT{% else %}EN{% endif %}</a>
           {% endif %}
           <a class="btn btn-ghost" href="{{ site.cv_url }}">{{ cv_label }}</a>
           <a class="btn btn-solid" href="mailto:{{ site.email }}">{{ contact_label }}</a>
