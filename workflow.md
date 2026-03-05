@@ -127,7 +127,7 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
       <div class="featured-top teal"></div>
       <div class="featured-body">
         <h3>Definindo a mensagem do site com <code>interview-me</code></h3>
-        <p>Quando montei este site, não tinha clareza sobre qual deveria ser a mensagem principal. Rodei a skill <strong>interview-me</strong>, que funciona como uma entrevista socrática: o agente faz perguntas encadeadas sobre minha pesquisa, trajetória e público-alvo, forçando-me a articular o que importa. Em três rodadas de perguntas, ficou claro que o fio condutor era a combinação de modelos formais com estimação empírica — algo que não aparecia na versão anterior do site. Isso reorganizou toda a comunicação: bio, pesquisa em destaque e a estrutura das páginas.</p>
+        <p>Quando montei este site, não tinha clareza sobre qual deveria ser a mensagem principal. Rodei a skill <strong>interview-me</strong>, que funciona como uma entrevista socrática: o agente faz perguntas encadeadas sobre minha pesquisa, trajetória e público-alvo, forçando-me a articular o que importa. Em três rodadas de perguntas, ficou claro que o fio condutor era a Ordem Liberal Internacional como agenda central de pesquisa, apoiada por métodos rigorosos de inferência causal e modelagem formal — algo que não aparecia na versão anterior do site. Isso reorganizou toda a comunicação: bio, pesquisa em destaque e a estrutura das páginas.</p>
       </div>
     </article>
 
