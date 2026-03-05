@@ -22,6 +22,7 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
     <p><strong>R</strong> para análise de dados</p>
     <p><strong>Python</strong> para ML, scraping e apps</p>
     <p><strong>PDF</strong> como output padrão</p>
+    <p><a href="https://github.com/mgaldino/agents-workflow">Ver no GitHub</a></p>
   </aside>
 </section>
 
