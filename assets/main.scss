@@ -2,11 +2,15 @@
 ---
 
 :root {
-  --bg: #fbfbf9;
-  --fg: #101114;
-  --muted: #5b6270;
-  --accent: #0f4a84;
-  --border: #dfe3e8;
+  --bg: #f8f7f4;
+  --fg: #1a1d23;
+  --muted: #6b7280;
+  --accent: #1a5c9e;
+  --border: #e8e6e1;
+  --card-bg: #fff;
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.03);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
+  --shadow-hover: 0 8px 24px rgba(0, 0, 0, 0.08), 0 2px 6px rgba(0, 0, 0, 0.04);
 
   --font-display: "Baskerville", "Times New Roman", serif;
   --font-body: "Avenir Next", "Helvetica Neue", sans-serif;
@@ -20,10 +24,10 @@
   --space-2: 0.75rem;
   --space-3: 1rem;
   --space-4: 1.5rem;
-  --space-5: 2.25rem;
+  --space-5: 2.5rem;
 
-  --radius-sm: 10px;
-  --radius-md: 16px;
+  --radius-sm: 12px;
+  --radius-md: 18px;
 
   --dur-fast: 120ms;
   --dur-normal: 200ms;
@@ -50,11 +54,14 @@ body {
 
 a {
   color: var(--accent);
-  text-underline-offset: 0.15em;
+  text-decoration-color: rgba(26, 92, 158, 0.3);
+  text-underline-offset: 0.18em;
+  transition: text-decoration-color var(--dur-fast) ease;
 }
 
 a:hover {
-  opacity: 0.85;
+  text-decoration-color: var(--accent);
+  opacity: 0.9;
 }
 
 a:focus-visible,
@@ -89,8 +96,8 @@ summary:focus-visible {
   display: grid;
   gap: var(--space-3);
   align-items: center;
-  border-bottom: 1px solid var(--border);
-  padding-bottom: var(--space-3);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  padding-bottom: var(--space-4);
 }
 
 .brand-name {
@@ -114,22 +121,25 @@ summary:focus-visible {
   display: inline-flex;
   align-items: center;
   min-height: 44px;
-  padding: 0.2rem 0.65rem;
-  border-radius: 6px;
+  padding: 0.2rem 0.75rem;
+  border-radius: 8px;
   border: 1px solid transparent;
-  color: var(--fg);
+  color: var(--muted);
+  font-size: 0.95rem;
   text-decoration: none;
-  transition: border-color var(--dur-fast) ease, background-color var(--dur-fast) ease;
+  transition: color var(--dur-fast) ease, background-color var(--dur-fast) ease;
 }
 
 .nav-link:hover {
-  border-color: var(--border);
+  color: var(--fg);
+  background: rgba(0, 0, 0, 0.03);
   opacity: 1;
 }
 
 .nav-link.is-active {
-  border-color: var(--fg);
-  background: #f5f6f8;
+  color: var(--fg);
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.04);
 }
 
 .header-actions {
@@ -143,12 +153,13 @@ summary:focus-visible {
   align-items: center;
   justify-content: center;
   min-height: 44px;
-  padding: 0.15rem 0.9rem;
+  padding: 0.15rem 1.1rem;
   text-decoration: none;
   border-radius: 999px;
-  border: 1px solid var(--fg);
   font-weight: 600;
-  transition: transform var(--dur-fast) ease;
+  font-size: 0.92rem;
+  letter-spacing: 0.01em;
+  transition: transform var(--dur-fast) ease, box-shadow var(--dur-fast) ease;
 }
 
 .btn:hover {
@@ -159,11 +170,22 @@ summary:focus-visible {
 .btn-ghost {
   color: var(--fg);
   background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.btn-ghost:hover {
+  border-color: rgba(0, 0, 0, 0.3);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
 }
 
 .btn-solid {
   color: #fff;
   background: var(--fg);
+  border: 1px solid var(--fg);
+}
+
+.btn-solid:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
 .site-main {
@@ -181,9 +203,11 @@ summary:focus-visible {
 .eyebrow {
   margin: 0;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: var(--fs-1);
-  color: var(--muted);
+  letter-spacing: 0.12em;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--accent);
+  opacity: 0.7;
 }
 
 .page-title {
@@ -215,10 +239,11 @@ summary:focus-visible {
 }
 
 .profile-card {
-  border: 1px solid var(--border);
+  border: 1px solid rgba(0, 0, 0, 0.05);
   border-radius: var(--radius-md);
   padding: var(--space-4);
-  background: #fff;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-sm);
   display: grid;
   gap: var(--space-3);
 }
@@ -235,10 +260,16 @@ summary:focus-visible {
 }
 
 .section-block {
-  border: 1px solid var(--border);
+  border: 1px solid rgba(0, 0, 0, 0.05);
   border-radius: var(--radius-md);
-  background: #fff;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-sm);
   padding: var(--space-4);
+  transition: box-shadow var(--dur-normal) ease;
+}
+
+.section-block:hover {
+  box-shadow: var(--shadow-md);
 }
 
 .section-block h2 {
@@ -284,26 +315,35 @@ summary:focus-visible {
 .track-card,
 .paper-card,
 .callout {
-  border: 1px solid var(--border);
+  border: 1px solid rgba(0, 0, 0, 0.04);
   border-radius: var(--radius-sm);
-  background: #fff;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-sm);
   overflow: hidden;
+  transition: box-shadow var(--dur-normal) ease, transform var(--dur-normal) ease;
+}
+
+.featured-card:hover,
+.info-card:hover,
+.track-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
 }
 
 .featured-top {
-  height: 10px;
+  height: 4px;
 }
 
 .featured-top.teal {
-  background: linear-gradient(90deg, #0c5b6b, #59a9ad);
+  background: linear-gradient(90deg, #0c8b7b, #6dc4c0);
 }
 
 .featured-top.peach {
-  background: linear-gradient(90deg, #b3652d, #e7b083);
+  background: linear-gradient(90deg, #c47a3e, #ecc29b);
 }
 
 .featured-top.blue {
-  background: linear-gradient(90deg, #274f8f, #769de2);
+  background: linear-gradient(90deg, #3468a8, #8db4e8);
 }
 
 .featured-body,
@@ -335,7 +375,15 @@ summary:focus-visible {
 .callout-link {
   display: inline-block;
   margin-top: var(--space-2);
-  font-weight: 700;
+  font-weight: 600;
+  font-size: 0.92rem;
+  text-decoration: none;
+  color: var(--accent);
+  transition: opacity var(--dur-fast) ease;
+}
+
+.callout-link:hover {
+  opacity: 0.75;
 }
 
 .contact-list,
@@ -354,13 +402,23 @@ summary:focus-visible {
   color: var(--muted);
 }
 
+.paper-card {
+  transition: box-shadow var(--dur-normal) ease;
+}
+
+.paper-card:hover {
+  box-shadow: var(--shadow-md);
+}
+
 .paper-card details {
   margin-top: var(--space-2);
 }
 
 .paper-card summary {
   cursor: pointer;
-  font-weight: 700;
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 0.92rem;
 }
 
 .actions-row {
@@ -379,8 +437,8 @@ summary:focus-visible {
 
 .site-footer {
   margin-top: var(--space-5);
-  border-top: 1px solid var(--border);
-  padding-top: var(--space-3);
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  padding-top: var(--space-4);
 }
 
 .footer-main {
@@ -400,9 +458,10 @@ summary:focus-visible {
 }
 
 .hero {
-  border: 1px solid var(--border);
+  border: 1px solid rgba(0, 0, 0, 0.05);
   border-radius: var(--radius-md);
-  background: #fff;
+  background: var(--card-bg);
+  box-shadow: var(--shadow-md);
   padding: var(--space-5);
 }
 

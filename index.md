@@ -7,21 +7,14 @@ title: Bio
 description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciências Sociais.
 ---
 
-<section class="page-header">
-  <p class="eyebrow">Bio</p>
-  <h1 class="page-title">Manoel Galdino</h1>
-  <p class="page-intro">Professor de Ciência Política no <a href="https://dcp.fflch.usp.br/">Departamento de Ciência Política da Universidade de São Paulo</a>.</p>
-</section>
-
+<p class="eyebrow">Bio</p>
 <section class="bio-layout" aria-labelledby="bio-overview">
   <article class="bio-copy" id="bio-overview">
+    <h1 class="page-title">Manoel Galdino</h1>
+    <p class="page-intro">Professor de Ciência Política no <a href="https://dcp.fflch.usp.br/">Departamento de Ciência Política da Universidade de São Paulo</a>.</p>
     <p>Minha linha principal de pesquisa é Economia Política Internacional, com ênfase em comércio internacional, status e alinhamento de política externa. Também desenvolvo pesquisas sobre accountability, inferência causal e comportamento político, incluindo implementação de políticas públicas no Brasil.</p>
     <p>Trabalho com experimentos de campo, estratégias de métodos mistos e fluxos de trabalho empíricos transparentes. Este site foi organizado para facilitar o acesso à minha agenda de pesquisa, working papers e publicações.</p>
     <p>Além das atividades de pesquisa, coordeno o <a href="{{ '/csex/' | relative_url }}">Laboratório CSEX</a> e atuo como <strong>{{ site.pet.role }}</strong> no <strong>{{ site.pet.name }}</strong>.</p>
-    <div class="actions-row">
-      <a class="btn btn-solid" href="{{ '/research/' | relative_url }}">Pesquisa</a>
-      <a class="btn btn-ghost" href="{{ site.cv_url }}">Currículo</a>
-    </div>
   </article>
 
   <aside class="profile-card" aria-labelledby="profile-and-links">

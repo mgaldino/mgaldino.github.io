@@ -8,22 +8,15 @@ permalink: /en/
 description: Bio, research agenda, CSEX Lab, and PET Social Sciences activities.
 ---
 
-<section class="page-header">
-  <p class="eyebrow">Bio</p>
-  <h1 class="page-title">Manoel Galdino</h1>
-  <p class="page-intro">Assistant Professor of Political Science at the <a href="https://dcp.fflch.usp.br/">Department of Political Science, Universidade de São Paulo</a>.</p>
-</section>
-
+<p class="eyebrow">Bio</p>
 <section class="bio-layout" aria-labelledby="bio-overview">
   <article class="bio-copy" id="bio-overview">
+    <h1 class="page-title">Manoel Galdino</h1>
+    <p class="page-intro">Assistant Professor of Political Science at the <a href="https://dcp.fflch.usp.br/">Department of Political Science, Universidade de São Paulo</a>.</p>
     <p>My research investigates how political institutions — from the international liberal order to local public services — can better deliver on their promises. To do this, I combine tools that rarely travel together: formal models with empirical estimation, Bayesian inference with causal identification, and practical governance experience with academic rigor.</p>
     <p>My central project develops the first systematic measure of state adherence to the International Liberal Order, addressing a fundamental empirical gap in current debates about whether we face a genuine crisis or a structural reorganization of the international system.</p>
     <p>I also build methodological tools when existing ones fall short — from posterior predictive checks for Bayesian process tracing to closed-form formulas for collider bias — and study how accountability mechanisms can improve public service delivery, drawing on years of experience leading Transparência Brasil.</p>
     <p>In addition to research activities, I coordinate the <a href="{{ '/en/csex/' | relative_url }}">CSEX Lab</a> and serve as <strong>Tutor</strong> in <strong>PET Social Sciences</strong>.</p>
-    <div class="actions-row">
-      <a class="btn btn-solid" href="{{ '/en/research/' | relative_url }}">Research</a>
-      <a class="btn btn-ghost" href="{{ site.cv_url }}">CV</a>
-    </div>
   </article>
 
   <aside class="profile-card" aria-labelledby="profile-and-links">
