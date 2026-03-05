@@ -135,7 +135,7 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
       <div class="featured-top peach"></div>
       <div class="featured-body">
         <h3>Reescrevendo um paper com <code>edmans-review</code></h3>
-        <p>Usei <strong>edmans-review</strong> para avaliar um working paper antes de submeter. O agente avalia Contribution, Execution e Exposition separadamente, com scoring e diagnósticos concretos. O parecer apontou que a contribuição estava diluída — eu listava vários resultados sem hierarquizar qual era o achado central. Mais útil foi a heurística bayesiana: o agente pergunta "quanto um leitor informado atualizaria suas crenças ao ler este paper?". Isso me obrigou a pensar na margem de contribuição real, não no que eu achava interessante. Reescrevi a introdução priorizando o resultado principal e cortei uma seção inteira que não movia o ponteiro de convicção do leitor.</p>
+        <p>Usei <strong>edmans-review</strong> para avaliar um working paper antes de submeter. O agente avalia Contribution, Execution e Exposition separadamente, com scoring e diagnósticos concretos. O parecer apontou que a contribuição estava diluída — eu listava vários resultados sem hierarquizar qual era o achado central. Mais útil foi a heurística bayesiana: o agente pergunta "quanto um leitor informado atualizaria suas crenças ao ler este paper?". A pergunta é simples, mas me forçou a separar o que era de fato novo do que eu apenas gostava de discutir. Na prática, reescrevi a introdução em torno de um único resultado e cortei uma seção que não mudava a conclusão de ninguém.</p>
       </div>
     </article>
   </div>
