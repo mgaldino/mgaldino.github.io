@@ -12,8 +12,9 @@ description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciê
   <article class="bio-copy" id="bio-overview">
     <h1 class="page-title">Manoel Galdino</h1>
     <p class="page-intro">Professor de Ciência Política no <a href="https://dcp.fflch.usp.br/">Departamento de Ciência Política da Universidade de São Paulo</a>.</p>
-    <p>Minha linha principal de pesquisa é Economia Política Internacional, com ênfase em comércio internacional, status e alinhamento de política externa. Também desenvolvo pesquisas sobre accountability, inferência causal e comportamento político, incluindo implementação de políticas públicas no Brasil.</p>
-    <p>Trabalho com experimentos de campo, estratégias de métodos mistos e fluxos de trabalho empíricos transparentes. Este site foi organizado para facilitar o acesso à minha agenda de pesquisa, working papers e publicações.</p>
+    <p>Minha pesquisa investiga como instituições políticas — da ordem liberal internacional aos serviços públicos locais — podem cumprir melhor suas promessas. Para isso, combino ferramentas que raramente andam juntas: modelos formais com estimação empírica, inferência bayesiana com identificação causal, e experiência prática em governança com rigor acadêmico.</p>
+    <p>Meu projeto central desenvolve a primeira medida sistemática de adesão estatal à Ordem Liberal Internacional, preenchendo uma lacuna empírica fundamental nos debates atuais sobre se enfrentamos uma crise genuína ou uma reorganização estrutural do sistema internacional.</p>
+    <p>Também construo ferramentas metodológicas quando as existentes não bastam — de posterior predictive checks para Bayesian process tracing a fórmulas analíticas para viés de colisão — e estudo como mecanismos de accountability podem melhorar a entrega de serviços públicos, com base em anos de experiência à frente da Transparência Brasil.</p>
     <p>Além das atividades de pesquisa, coordeno o <a href="{{ '/csex/' | relative_url }}">Laboratório CSEX</a> e atuo como <strong>{{ site.pet.role }}</strong> no <strong>{{ site.pet.name }}</strong>.</p>
   </article>
 
@@ -32,12 +33,27 @@ description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciê
   </aside>
 </section>
 
+<section class="section-block" aria-labelledby="trajectory">
+  <h2 id="trajectory">Trajetória</h2>
+  <p>Antes de retornar à academia em tempo integral, passei uma década fora dela — e cada fase moldou como faço pesquisa hoje. Como cientista de dados no setor privado (2012–2016), aprendi a trabalhar com dados em larga escala, escrever código de produção e gerenciar equipes com métodos ágeis. Como diretor executivo da Transparência Brasil (2016–2022), desenhei experimentos de campo sobre entrega de serviços públicos e vi de perto como accountability funciona — e falha — na prática. Uma colaboração com o Laboratório de Neurociência Social e Afetiva do Mackenzie (2021) expandiu meu ferramental para métodos experimentais em comportamento político.</p>
+  <p>Essas experiências alimentam um estilo de pesquisa que valoriza cruzar fronteiras: entre teoria formal e estimação empírica, entre inovação metodológica e questões substantivas, entre rigor acadêmico e relevância para o mundo real.</p>
+</section>
+
 <section aria-labelledby="featured-research">
   <div class="section-header">
     <h2 id="featured-research" class="section-title">Pesquisa em Destaque</h2>
   </div>
 
   <div class="featured-grid">
+    <article class="featured-card">
+      <div class="featured-top blue"></div>
+      <div class="featured-body">
+        <h3>Medindo a Ordem Liberal Internacional</h3>
+        <p>A ordem liberal está em crise ou em reorganização? Ainda faltam ferramentas empíricas para responder. Meu projeto central constrói medidas sistemáticas de adesão estatal ao longo do tempo, distinguindo compromisso formal de adesão substantiva.</p>
+        <a class="callout-link" href="{{ '/research/' | relative_url }}#projeto-central">Saiba mais &gt;</a>
+      </div>
+    </article>
+
     <article class="featured-card">
       <div class="featured-top teal"></div>
       <div class="featured-body">
