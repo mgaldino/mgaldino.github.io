@@ -17,8 +17,8 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
 
   <aside class="profile-card" aria-labelledby="workflow-numbers">
     <h2 id="workflow-numbers">Visão Geral</h2>
-    <p><strong>38</strong> skills especializadas</p>
-    <p><strong>3</strong> regras de contexto</p>
+    <p><strong>39</strong> skills especializadas</p>
+    <p><strong>4</strong> regras de contexto</p>
     <p><strong>R</strong> para análise de dados</p>
     <p><strong>Python</strong> para ML, scraping e apps</p>
     <p><strong>PDF</strong> como output padrão</p>
@@ -122,7 +122,7 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
     <h2 id="examples" class="section-title">Exemplos de Uso</h2>
   </div>
 
-  <div class="featured-grid" style="grid-template-columns: repeat(2, minmax(0, 1fr));">
+  <div class="featured-grid" style="grid-template-columns: repeat(3, minmax(0, 1fr));">
     <article class="featured-card">
       <div class="featured-top teal"></div>
       <div class="featured-body">
@@ -138,15 +138,32 @@ description: Como uso Claude Code com agentes especializados para pesquisa acad�
         <p>Usei <strong>edmans-review</strong> para avaliar um working paper antes de submeter. O agente avalia Contribution, Execution e Exposition separadamente, com scoring e diagnósticos concretos. O parecer apontou que a contribuição estava diluída — eu listava vários resultados sem hierarquizar qual era o achado central. Mais útil foi a heurística bayesiana: o agente pergunta "quanto um leitor informado atualizaria suas crenças ao ler este paper?". A pergunta é simples, mas me forçou a separar o que era de fato novo do que eu apenas gostava de discutir. Na prática, reescrevi a introdução em torno de um único resultado e cortei uma seção que não mudava a conclusão de ninguém.</p>
       </div>
     </article>
+
+    <article class="featured-card">
+      <div class="featured-top blue"></div>
+      <div class="featured-body">
+        <h3>Visão de portfólio com <code>dashboard</code></h3>
+        <p>Com ~15 projetos de pesquisa simultâneos, cada um com seu próprio contexto e memória persistente, era impossível lembrar onde cada um estava. Criei uma skill <strong>dashboard</strong> que mantém um arquivo Markdown central com tabela resumo e seções detalhadas por projeto. A parte importante: os agentes atualizam o dashboard automaticamente ao final de cada sessão com resultado substantivo, via uma regra global. Rodar <code>/dashboard</code> mostra urgências e bloqueios em 10 segundos. <code>/dashboard refresh</code> escaneia todos os MEMORY.md e detecta discrepâncias. Na prática, eliminou o problema de reabrir um projeto e não lembrar onde parei — o dashboard sempre responde "onde está cada projeto e o que fazer a seguir".</p>
+      </div>
+    </article>
   </div>
+</section>
+
+<section class="section-block" aria-labelledby="skills-management">
+  <h2 id="skills-management">Gestão de Projetos</h2>
+  <p>Visão centralizada do portfólio de pesquisa, mantida automaticamente pelos agentes durante o trabalho.</p>
+  <ul class="simple-list">
+    <li><strong>dashboard</strong> — Visão geral, refresh e detalhe de todos os projetos de pesquisa ativos</li>
+  </ul>
 </section>
 
 <section class="section-block" aria-labelledby="rules">
   <h2 id="rules">Regras de Contexto</h2>
-  <p>Três regras ativadas automaticamente conforme o tipo de arquivo ou situação:</p>
+  <p>Quatro regras ativadas automaticamente conforme o tipo de arquivo ou situação:</p>
   <ul class="simple-list">
     <li><strong>Plan-First Workflow</strong> — Obriga planejamento antes de execução. Planos salvos em disco sobrevivem à compressão de contexto.</li>
     <li><strong>Quality Gates</strong> — Rubricas de scoring por tipo de arquivo (.R, .Rmd, .py, .qmd) com deduções por severidade.</li>
     <li><strong>Session Recovery</strong> — Protocolo de recuperação após compressão ou nova sessão: ler memória, verificar planos, checar git, declarar entendimento.</li>
+    <li><strong>Dashboard Update</strong> — Regra global que instrui todo agente a atualizar o dashboard centralizado após sessões com resultado substantivo (commit, simulação, decisão estratégica).</li>
   </ul>
 </section>

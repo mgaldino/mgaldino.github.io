@@ -12,6 +12,13 @@ description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciê
   <article class="bio-copy" id="bio-overview">
     <h1 class="page-title">Manoel Galdino</h1>
     <p class="page-intro">Professor de Ciência Política no <a href="https://dcp.fflch.usp.br/">Departamento de Ciência Política da Universidade de São Paulo</a>.</p>
+    <div class="video-embed">
+      <iframe src="https://www.youtube.com/embed/VIDEO_ID_AQUI"
+              title="Agenda de pesquisa"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+    </div>
     <p>Minha pesquisa investiga como instituições políticas — da ordem liberal internacional aos serviços públicos locais — podem cumprir melhor suas promessas. Para isso, combino ferramentas que raramente andam juntas: modelos formais com estimação empírica, inferência bayesiana com identificação causal, e experiência prática em governança com rigor acadêmico.</p>
     <p>Meu projeto central desenvolve a primeira medida sistemática de adesão estatal à Ordem Liberal Internacional, preenchendo uma lacuna empírica fundamental nos debates atuais sobre se enfrentamos uma crise genuína ou uma reorganização estrutural do sistema internacional.</p>
     <p>Também construo ferramentas metodológicas quando as existentes não bastam — de posterior predictive checks para Bayesian process tracing a fórmulas analíticas para viés de colisão — e estudo como mecanismos de accountability podem melhorar a entrega de serviços públicos, com base em anos de experiência à frente da Transparência Brasil.</p>
