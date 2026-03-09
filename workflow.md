@@ -2,15 +2,15 @@
 layout: default
 language: pt
 lang_code: pt-BR
-title: Workflow de Agentes
-permalink: /workflow/
+title: AI Workflow
+permalink: /ai-workflow/
 description: Como uso Claude Code com agentes especializados para pesquisa acadêmica.
 ---
 
 <p class="eyebrow">Ferramentas</p>
 <section class="bio-layout" aria-labelledby="workflow-overview">
   <article class="bio-copy" id="workflow-overview">
-    <h1 class="page-title">Workflow de Agentes</h1>
+    <h1 class="page-title">AI Workflow</h1>
     <p class="page-intro">Uso <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> como ambiente de trabalho para pesquisa acadêmica. O sistema combina agentes especializados, regras de qualidade e um protocolo plan-first para tarefas como escrever papers, analisar dados, revisar manuscritos e preparar apresentações.</p>
     <p>A inspiração veio do workflow de <a href="https://psantanna.com/claude-code-my-workflow/">Pedro Sant'Anna</a>. A minha versão é mais enxuta, adaptada ao meu dia a dia de pesquisa em ciência política e economia política internacional.</p>
   </article>
