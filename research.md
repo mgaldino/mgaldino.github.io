@@ -16,7 +16,7 @@ description: Working papers e publicações de Manoel Galdino.
 
 <section class="section-block" aria-labelledby="projeto-central">
   <h2 id="projeto-central">Projeto Central: A Ordem Liberal Internacional</h2>
-  <p>A Ordem Liberal Internacional está em erosão substantiva ou em reorganização estrutural? Esse debate permanece inconclusivo porque faltam medidas sistemáticas de adesão ao longo do tempo. Minha tese de Livre-Docência desenvolve tais medidas, combinando teoria de resposta ao item, análise de conteúdo e modelagem formal para distinguir compromisso formal de adesão substantiva. Papers relacionados nesta linha examinam como mudanças de status baseadas em comércio reconfiguram alinhamento de política externa, e como interdependência assimétrica molda resultados de barganha.</p>
+  <p>A Ordem Liberal Internacional está em erosão substantiva ou em reorganização estrutural? Esse debate permanece inconclusivo porque faltam medidas sistemáticas de adesão ao longo do tempo. Minha tese de Livre-Docência desenvolve tais medidas, combinando teoria de resposta ao item, análise de conteúdo e modelagem formal para distinguir compromisso formal de adesão substantiva.</p>
 
   <div class="paper-list">
     <article class="paper-card">
@@ -28,6 +28,22 @@ description: Working papers e publicações de Manoel Galdino.
       </details>
     </article>
 
+    <article class="paper-card">
+      <h3>A Mean-Field Game Model of State Adherence to the Liberal International Order</h3>
+      <p class="paper-meta">Projeto em desenvolvimento. Texto completo indisponível ao público nesta fase.</p>
+      <details>
+        <summary>Resumo</summary>
+        <p>Este paper desenvolve um modelo formal de teoria dos jogos (mean-field game) para microfundamentar as decisões estatais de adesão à Ordem Liberal Internacional. O modelo gera um teorema de unicidade e um teorema de polarização, mostrando como parâmetros estruturais — custos de adesão, benefícios de rede e heterogeneidade entre estados — determinam o nível de equilíbrio de participação na ordem. Resultados numéricos calibrados por domínio (comércio, direitos humanos, segurança) produzem previsões comparáveis com os dados empíricos do projeto central.</p>
+      </details>
+    </article>
+  </div>
+</section>
+
+<section class="section-block" aria-labelledby="ipe">
+  <h2 id="ipe">Economia Política Internacional</h2>
+  <p>Como mudanças nas relações econômicas entre estados — comércio, investimento, energia — reconfiguram alinhamentos de política externa e resultados de barganha?</p>
+
+  <div class="paper-list">
     <article class="paper-card">
       <h3>The Foreign Policy Impact of Trade-Based Status Gains: When China Overtakes the US as Top Trade Partner</h3>
       <p class="paper-meta">Economia Política Internacional. Versão de 2026-02-18. Manuscrito em preparação; texto completo indisponível ao público nesta fase.</p>
