@@ -13,7 +13,7 @@ description: Bio, agenda de pesquisa, Laboratório CSEX e atividades no PET Ciê
     <h1 class="page-title">Manoel Galdino</h1>
     <p class="page-intro">Professor de Ciência Política no <a href="https://dcp.fflch.usp.br/">Departamento de Ciência Política da Universidade de São Paulo</a>.</p>
     <div class="video-embed">
-      <iframe src="https://www.youtube.com/embed/VIDEO_ID_AQUI"
+      <iframe src="https://www.youtube.com/embed/KmMqrvr69Ig"
               title="Agenda de pesquisa"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
