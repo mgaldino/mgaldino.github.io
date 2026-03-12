@@ -21,12 +21,14 @@
       {% assign home_url = '/en/' %}
       {% assign research_url = '/en/research/' %}
       {% assign csex_url = '/en/csex/' %}
+      {% assign ensino_url = '/ensino/' %}
       {% assign public_url = '/public-writing/' %}
       {% assign workflow_url = '/ai-workflow/' %}
 
       {% assign nav_home = 'Bio' %}
       {% assign nav_research = 'Research' %}
       {% assign nav_csex = 'CSEX Lab' %}
+      {% assign nav_ensino = 'Teaching (PT)' %}
       {% assign nav_public = 'Public Writing (PT)' %}
       {% assign nav_workflow = 'AI Workflow' %}
 
@@ -39,12 +41,14 @@
       {% assign home_url = '/' %}
       {% assign research_url = '/research/' %}
       {% assign csex_url = '/csex/' %}
+      {% assign ensino_url = '/ensino/' %}
       {% assign public_url = '/public-writing/' %}
       {% assign workflow_url = '/ai-workflow/' %}
 
       {% assign nav_home = 'Bio' %}
       {% assign nav_research = 'Pesquisa' %}
       {% assign nav_csex = 'Laboratório CSEX' %}
+      {% assign nav_ensino = 'Ensino' %}
       {% assign nav_public = 'Escrita Pública' %}
       {% assign nav_workflow = 'AI Workflow' %}
 
@@ -71,6 +75,9 @@
             </li>
             <li>
               <a class="nav-link{% if clean_url == csex_url %} is-active{% endif %}" href="{{ csex_url | relative_url }}">{{ nav_csex }}</a>
+            </li>
+            <li>
+              <a class="nav-link{% if clean_url == ensino_url %} is-active{% endif %}" href="{{ ensino_url | relative_url }}">{{ nav_ensino }}</a>
             </li>
             <li>
               <a class="nav-link{% if clean_url == public_url %} is-active{% endif %}" href="{{ public_url | relative_url }}">{{ nav_public }}</a>
