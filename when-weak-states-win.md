@@ -45,7 +45,7 @@ description: Entenda como apoio externo e restrições domésticas ajudam a expl
   <section class="wwsw-mechanism" aria-labelledby="wwsw-mecanismo">
     <div class="wwsw-mechanism-heading">
       <p class="wwsw-kicker">O mecanismo</p>
-      <h2 id="wwsw-mecanismo">Um ciclo de reforço, não uma simples disputa de poder</h2>
+      <h2 id="wwsw-mecanismo">Apoio venezuelano e restrições brasileiras</h2>
       <p>O modelo organiza a explicação como uma sequência de incentivos que se reforçam.</p>
     </div>
 
