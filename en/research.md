@@ -38,8 +38,8 @@ description: Working papers and publications by Manoel Galdino.
     </article>
 
     <article class="paper-card">
-      <h3>When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</h3>
-      <p class="paper-meta">With V. A. B. Lyra. Accepted at <em>Revista Brasileira de Política Internacional (RBPI)</em>, 2026.</p>
+      <h3><a hreflang="pt-BR" href="{{ '/research/when-weak-states-win/' | relative_url }}">When Weak States Win: A Supermodular Game-Theoretic Account of the 2006 Bolivia-Brazil Gas Crisis</a></h3>
+      <p class="paper-meta">With Rodrigo Lyra. Published in <em>Revista Brasileira de Política Internacional (RBPI)</em>, 69(1), e004, 2026. Open access. The linked publication page is in Portuguese.</p>
       <details>
         <summary>Abstract</summary>
         <p>This study analyzes the 2006 Bolivia-Brazil gas negotiations using supermodular game theory and leveraging unprecedented analysis of diplomatic cables. Our puzzle, from a rationalist perspective, is how a small power can prevail over a regional leader. While traditional theories suggest interdependence fosters cooperation, this case reveals it can harden positions and intensify bargaining crises when external actors intervene. By modeling strategic interactions between Bolivia, Brazil, and Venezuela, the study highlights how Venezuelan support strengthened Bolivia’s stance. The nationalization of hydrocarbons constrained Brazil’s response, as Lula faced domestic political limitations. The findings challenge conventional views by demonstrating that interdependence can trigger crises. The supermodular model contributes to the literature on international negotiations and energy diplomacy by providing a formalized approach to understanding bargaining rigidity in resource-driven disputes.</p>

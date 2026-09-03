@@ -1,0 +1,558 @@
+Transcrição do áudio de divulgação
+
+Áudio: when-weak-states-win-podcast-notebooklm.mp3
+SHA-256 do áudio: d4b315b821903d9c24914fa72bf2fdbb2225e8e399c4bdcff187e14c04b8189c
+Modelo local: mlx-community/whisper-large-v3-turbo
+Idioma solicitado: português (pt)
+Gerada em UTC: 2026-09-03T19:43:29.687835+00:00
+Status editorial: transcrição automática, com correção de nomes próprios e lapsos evidentes por cotejo com o artigo; não equivale a uma transcrição humana integral.
+
+Transcrição com marcação temporal
+
+[00:00:00–00:00:04] Imagina um jogo de pôquer, mas com aquelas apostas altíssimas, sabe?
+
+[00:00:05–00:00:11] De um lado da mesa, tem um jogador com uma montanha de fichas, recursos praticamente infinitos,
+
+[00:00:11–00:00:14] aquela posição que impõe respeito só de bater o olho.
+
+[00:00:14–00:00:16] Aquele que domina a mesa.
+
+[00:00:16–00:00:16] Exatamente.
+
+[00:00:17–00:00:23] E do outro lado, o adversário tem uma pilha minúscula de fichas e, tipo, muito poucas cartas na mão.
+
+[00:00:24–00:00:27] Pela lógica, o jogador mais rico simplesmente devora o menor, né?
+
+[00:00:28–00:00:29] Mas aí tem um detalhe absurdo nessa mesa.
+
+[00:00:29–00:00:31] As portas estão trancadas?
+
+[00:00:31–00:00:35] Pois é. O jogador bilionário literalmente não pode se levantar e ir embora.
+
+[00:00:36–00:00:39] Não importa o quão agressivo o oponente menor se torne.
+
+[00:00:39–00:00:44] E olha, em 2006, essa foi exatamente a dinâmica que o Brasil se viu preso frente à Bolívia.
+
+[00:00:44–00:00:50] Nossa, essa imagem ilustra perfeitamente, assim, o paradoxo de um dos momentos mais tensos
+
+[00:00:50–00:00:53] que a gente teve na diplomacia sul-americana recente.
+
+[00:00:53–00:00:53] Sim.
+
+[00:00:53–00:00:59] Aquilo que permitiu que a parte que parecia mais fraca mantivesse uma postura totalmente inabalável.
+
+[00:00:59–00:01:04] É. E é justamente para desvendar essas engrenagens que a gente vai dar nosso mergulho de hoje.
+
+[00:01:05–00:01:07] É uma imersão num trabalho de investigação fascinante.
+
+[00:01:08–00:01:14] A nossa fonte principal hoje, a nossa bússola, é o artigo brilhante, escrito por Rodrigo Lyra,
+
+[00:01:15–00:01:17] que a gente pronuncia Lira, e Manoel Galdino.
+
+[00:01:18–00:01:18] Isso.
+
+[00:01:18–00:01:27] O texto foi publicado na Revista Brasileira de Política Internacional, volume 69, número 1, E004, no ano de 2026.
+
+[00:01:28–00:01:35] Eles pegam esse episódio lá da crise do gás de 2006, quando o governo recém-eleito do Evo Morales
+
+[00:01:35–00:01:42] decide nacionalizar o setor de hidrocarbonetos da Bolívia e dissecam o cálculo por trás de cada movimento.
+
+[00:01:42–00:01:47] É um trabalho muito meticuloso. O que a pesquisa propõe é uma lente nova,
+
+[00:01:47–00:01:51] porque quando a gente olha para as manchetes da época,
+
+[00:01:51–00:01:57] a disputa entre o governo boliviano e a Petrobras parecia desafiar a gravidade econômica, sabe?
+
+[00:01:57–00:01:58] Totalmente.
+
+[00:01:58–00:02:04] O Brasil era o gigante ali, a Petrobras tinha o dinheiro, tinha a tecnologia, a infraestrutura.
+
+[00:02:04–00:02:08] Como que a Bolívia ia bater de frente sem ceder sobre o peso dessa simetria toda?
+
+[00:02:09–00:02:11] Ok, vamos desempacotar essa história então.
+
+[00:02:11–00:02:17] Para entender esse quebra-cabeça, o artigo já chega estabelecendo uma diferença conceitual
+
+[00:02:17–00:02:19] que muda o jogo inteiro.
+
+[00:02:20–00:02:23] A diferença entre poder material e poder de barganha.
+
+[00:02:24–00:02:24] Exato.
+
+[00:02:25–00:02:29] E eu confesso que assim, num primeiro momento, essas duas coisas parecem a mesma coisa para mim.
+
+[00:02:29–00:02:35] Quem tem a maior conta bancária ou o maior exército não é quem dita as regras na mesa.
+
+[00:02:35–00:02:37] É o que a nossa intuição grita, né?
+
+[00:02:37–00:02:42] Mas a realidade das relações internacionais mostra que não é bem por aí.
+
+[00:02:43–00:02:47] O artigo explica que o poder material é aquela contabilidade bruta.
+
+[00:02:48–00:02:52] É o PIB do país, os recursos naturais, o tamanho do exército.
+
+[00:02:52–00:02:53] Os números frios.
+
+[00:02:53–00:02:54] Isso.
+
+[00:02:54–00:02:55] É um dado estático.
+
+[00:02:55–00:03:04] Já o poder de barganha é a capacidade real, prática, de influenciar o resultado de uma negociação específica.
+
+[00:03:04–00:03:05] E ele é super fluido.
+
+[00:03:06–00:03:09] Ele depende das opções que você tem fora da mesa, sabe?
+
+[00:03:09–00:03:09] Hum.
+
+[00:03:09–00:03:16] Das restrições que estão amarrando seu oponente, daquele xadrez diplomático que acontece longe dos holofotes.
+
+[00:03:16–00:03:21] Quer dizer, ter poder material não garante poder de barganha se você não consegue usar esse peso a seu favor.
+
+[00:03:22–00:03:27] E, cara, os dados que o texto traz sobre o poder material envolvido são absurdos.
+
+[00:03:27–00:03:28] São impressionantes mesmo.
+
+[00:03:28–00:03:30] Só para quem está ouvindo ter uma ideia da proporção.
+
+[00:03:31–00:03:37] Entre 1996 e 2006, a Petrobras investiu mais de 1,5 bilhão de dólares na Bolívia.
+
+[00:03:37–00:03:38] É muito dinheiro.
+
+[00:03:38–00:03:42] E para dar a real dimensão do que isso significava para o lado de lá, para o lado boliviano,
+
+[00:03:43–00:03:47] as operações da Petrobras representavam os 18% de todo o produto interno bruto da Bolívia.
+
+[00:03:48–00:03:48] Nossa.
+
+[00:03:49–00:03:52] 18% do PIB na mão de uma empresa estrangeira.
+
+[00:03:52–00:03:53] Pois é.
+
+[00:03:53–00:03:57] E se a gente olhar para as receitas fiscais do país, 22% vinham dali.
+
+[00:03:57–00:04:01] Era uma dependência econômica estrutural gigantesca em relação à nossa estatal.
+
+[00:04:01–00:04:02] Mas, hum.
+
+[00:04:03–00:04:05] Essa dependência não era uma rua de mão única, certo?
+
+[00:04:05–00:04:09] Porque se a Bolívia dependia do dinheiro, o Brasil era refém do produto.
+
+[00:04:09–00:04:10] Uhum.
+
+[00:04:10–00:04:11] O gás.
+
+[00:04:11–00:04:11] Exato.
+
+[00:04:12–00:04:18] O estado de São Paulo, que é o motor industrial do Brasil, dependia em 75% desse gás boliviano
+
+[00:04:18–00:04:19] para manter as fábricas funcionando.
+
+[00:04:19–00:04:19] Sim.
+
+[00:04:20–00:04:21] E fica mais extremo.
+
+[00:04:21–00:04:21] Sim.
+
+[00:04:21–00:04:26] Em estados como Mato Grosso e Mato Grosso do Sul, essa dependência batia a marca dos 100%.
+
+[00:04:27–00:04:32] E o que é fascinante aqui é que, bom, tradicionalmente os teóricos assumem que uma interdependência
+
+[00:04:32–00:04:35] profunda, assim, gera cooperação, né?
+
+[00:04:35–00:04:36] É o que se espera.
+
+[00:04:36–00:04:40] A lógica é que se o custo de romper for um desastre para todo mundo, eles vão ser
+
+[00:04:40–00:04:42] forçados a sentar e conversar.
+
+[00:04:42–00:04:46] Mas o artigo argumenta justamente o oposto nesse caso específico.
+
+[00:04:46–00:04:51] E isso dá um nó na cabeça da gente porque como é que uma dependência mútua desse
+
+[00:04:51–00:04:53] nível não forçou um acordo rápido?
+
+[00:04:53–00:04:55] É contra-intuitivo.
+
+[00:04:55–00:04:59] É, se eu sei que o meu parceiro de negócios pode falir a minha empresa e eu posso falir
+
+[00:04:59–00:05:02] a dele, a gente costuma procurar um meio termo correndo.
+
+[00:05:03–00:05:07] Aí volta a nossa analogia do pôquer que o próprio embaixador brasileiro na época,
+
+[00:05:07–00:05:08] o Marcelo Biato, usou.
+
+[00:05:08–00:05:11] Ele falou que era um jogo de pôquer de altas apostas.
+
+[00:05:11–00:05:12] E ele estava certíssimo.
+
+[00:05:13–00:05:16] O Brasil tinha quase todas as fichas, mas não podia levantar da mesa.
+
+[00:05:17–00:05:21] Só que o jogador com poucas fichas, a Bolívia, sabia disso.
+
+[00:05:21–00:05:23] Sabia que a gente não podia virar a mesa.
+
+[00:05:24–00:05:29] Mas mesmo assim, arriscar tudo e blefar contra um gigante exige muita segurança.
+
+[00:05:30–00:05:31] De onde que veio essa confiança toda?
+
+[00:05:32–00:05:37] Então, essa segurança veio de um terceiro ator, um que nem estava sentado formalmente
+
+[00:05:37–00:05:39] ali na mesa principal entre Brasil e Bolívia.
+
+[00:05:39–00:05:40] O fator Venezuela.
+
+[00:05:41–00:05:41] Exatamente.
+
+[00:05:41–00:05:43] A Venezuela do Hugo Chávez.
+
+[00:05:43–00:05:48] A presença venezuelana é apontada pelos autores como o elemento que embaralhou tudo
+
+[00:05:48–00:05:50] e reconfigurou o cálculo estratégico da Bolívia.
+
+[00:05:51–00:05:53] E como é que a pesquisa ilustra isso na prática?
+
+[00:05:53–00:06:00] Porque, hum, imagino que separar o que é só fofoca diplomática de um modelo analítico sério
+
+[00:06:00–00:06:01] deve dar muito trabalho.
+
+[00:06:01–00:06:02] Nossa e como.
+
+[00:06:02–00:06:07] Os autores fazem uma distinção super cuidadosa entre a evidência histórica pura
+
+[00:06:07–00:06:10] e a narrativa analítica que eles constroem em cima dela.
+
+[00:06:10–00:06:13] E o que seria evidência histórica nesse caso?
+
+[00:06:13–00:06:16] A evidência histórica são os fatos documentados, né?
+
+[00:06:17–00:06:20] Coisas que estão lá nos cabos diplomáticos e relatórios.
+
+[00:06:20–00:06:27] Por exemplo, o Decreto Supremo 28701, em 1º de maio, que oficializou a nacionalização.
+
+[00:06:27–00:06:28] Isso é um fato.
+
+[00:06:28–00:06:29] Certo.
+
+[00:06:29–00:06:29] Está no papel.
+
+[00:06:29–00:06:36] Outro fato é que tinham advogados venezuelanos lá na Bolívia ajudando a YPFB, que é a estatal boliviana,
+
+[00:06:37–00:06:38] a formular os contratos novos.
+
+[00:06:39–00:06:43] E a parte do dinheiro, porque no fim das contas a Bolívia precisava de caixa, né?
+
+[00:06:43–00:06:43] Sim.
+
+[00:06:44–00:06:45] E a evidência entra aí também.
+
+[00:06:46–00:06:53] Houve a promessa de 1,5 bilhão de dólares em investimentos por parte da PDVSA, a estatal venezuelana.
+
+[00:06:53–00:06:54] Caramba.
+
+[00:06:54–00:07:01] Além da necessidade boliviana de 1 bilhão de dólares para apoio orçamentário que a Venezuela sinalizou que cobriria.
+
+[00:07:02–00:07:05] Esses são os tijolos da história, os fatos brutos.
+
+[00:07:05–00:07:08] E aqui é onde a coisa fica realmente interessante para mim.
+
+[00:07:08–00:07:13] Como que eles pegam esses tijolos todos e transformam na narrativa analítica?
+
+[00:07:13–00:07:19] A narrativa analítica é como eles interpretam esses fatos para explicar a mudança no tabuleiro.
+
+[00:07:19–00:07:25] A leitura deles é que a Venezuela não atuou como uma mediadora neutra, tentando apaziguar a situação.
+
+[00:07:25–00:07:26] Longe disso.
+
+[00:07:26–00:07:26] É.
+
+[00:07:26–00:07:29] Ela agiu como um suporte indireto.
+
+[00:07:29–00:07:34] Ao garantir que se a Petrobras tirasse o time de campo, a PDVSA estava lá para injetar capital,
+
+[00:07:35–00:07:38] o governo boliviano viu o custo de peitar o Brasil despencar.
+
+[00:07:38–00:07:41] Eles deram as costas quentes para o Morales, basicamente.
+
+[00:07:41–00:07:46] A Bolívia pôde dizer um sonoro não com muito mais força do que o próprio poder material dela permitia.
+
+[00:07:46–00:07:50] Uhum. Alterou os incentivos de quem estava na mesa.
+
+[00:07:50–00:07:53] Mas a gente precisa olhar para o lado de cá agora.
+
+[00:07:54–00:07:56] Tem uma peça faltando no lado brasileiro.
+
+[00:07:57–00:07:59] Porque com a Bolívia adotando essa postura tão dura,
+
+[00:08:00–00:08:04] por que o Brasil simplesmente não bateu na mesa e respondeu na mesma moeda?
+
+[00:08:04–00:08:06] A gente ainda tinha uma força diplomática imensa.
+
+[00:08:07–00:08:08] É uma excelente pergunta.
+
+[00:08:09–00:08:12] E tem uma teoria na política internacional para explicar isso.
+
+[00:08:12–00:08:17] Sim, porque o que a gente sempre vê é a opinião pública empurrando os líderes para o conflito.
+
+[00:08:18–00:08:22] Os presidentes normalmente querem parecer durões internacionalmente para não perder voto em casa, né?
+
+[00:08:23–00:08:26] Exato. Isso é o que a academia chama de custos de audiência.
+
+[00:08:26–00:08:32] O normal é que a pressão doméstica faça um governo agir de forma mais agressiva
+
+[00:08:32–00:08:34] para não parecer fraco perante os eleitores.
+
+[00:08:34–00:08:39] Mas então, o governo Lula, em 2006, estava no meio do furacão do escândalo do Mensalão.
+
+[00:08:39–00:08:42] E tinha uma campanha de reeleição logo ali na esquina.
+
+[00:08:43–00:08:47] O meu reflexo seria pensar que um governo sob pressão interna
+
+[00:08:47–00:08:51] precisaria agir com mão de ferro lá fora para mostrar serviço.
+
+[00:08:52–00:08:53] Por que aqui foi o completo oposto?
+
+[00:08:54–00:08:56] É aí que o artigo brilha na explicação.
+
+[00:08:56–00:09:00] Ele propõe uma inversão total dessa lógica dos custos de audiência.
+
+[00:09:00–00:09:02] Naquele cenário muito específico,
+
+[00:09:02–00:09:05] adotar uma postura agressiva contra o Evo Morales
+
+[00:09:05–00:09:08] teria um custo político absurdo para o governo brasileiro.
+
+[00:09:08–00:09:10] Custo político interno, você diz.
+
+[00:09:10–00:09:12] Isso, interno e ideológico.
+
+[00:09:12–00:09:15] Porque a agenda do Morales tinha muita simpatia
+
+[00:09:15–00:09:17] de uma parte vital da base eleitoral
+
+[00:09:17–00:09:19] e política do governo brasileiro na época.
+
+[00:09:19–00:09:22] É, o artigo traz um número bem revelador sobre isso.
+
+[00:09:22–00:09:24] Ele cita que o Morales tinha uma aprovação
+
+[00:09:24–00:09:26] de cerca de 6,1 em 10
+
+[00:09:26–00:09:29] entre os brasileiros lá em 2006.
+
+[00:09:29–00:09:31] Você tem noção do que é isso?
+
+[00:09:31–00:09:33] 6,1 para um presidente estrangeiro?
+
+[00:09:34–00:09:37] No meio de uma crise diplomática com o nosso país.
+
+[00:09:37–00:09:38] É muita coisa.
+
+[00:09:38–00:09:39] Exatamente.
+
+[00:09:39–00:09:43] Então, os custos políticos e eleitorais domésticos
+
+[00:09:43–00:09:45] amarraram as mãos do Brasil.
+
+[00:09:46–00:09:49] Bater de frente seria politicamente mais caro
+
+[00:09:49–00:09:51] do que tentar acomodar a situação.
+
+[00:09:52–00:09:54] Cara, que xadrez maluco.
+
+[00:09:54–00:09:57] E se conectarmos isso ao cenário maior que o artigo propõe?
+
+[00:09:58–00:10:00] A gente entra na parte metodológica
+
+[00:10:00–00:10:05] que eles chamam de jogos supermodulares.
+
+[00:10:05–00:10:06] Isso, o modelo formal.
+
+[00:10:07–00:10:08] Eu vou ser sincero.
+
+[00:10:08–00:10:09] Quando eu li jogos supermodulares,
+
+[00:10:09–00:10:11] me pareceu um jargão assustador.
+
+[00:10:12–00:10:13] Como que a gente traduz isso
+
+[00:10:13–00:10:16] e o lance das complementaridades estratégicas
+
+[00:10:16–00:10:18] para quem está acompanhando a gente?
+
+[00:10:18–00:10:20] Olha, os nomes são meio técnicos,
+
+[00:10:20–00:10:21] mas o conceito é bem lógico.
+
+[00:10:21–00:10:25] Esses termos são só o mecanismo formal proposto pelo artigo.
+
+[00:10:26–00:10:29] Pensa num cenário onde a postura dura de um ator
+
+[00:10:29–00:10:32] aumenta os incentivos para que os outros também endureçam
+
+[00:10:32–00:10:35] ou pelo menos mantenham suas posições travadas.
+
+[00:10:35–00:10:37] Uma bola de neve de teimosia.
+
+[00:10:37–00:10:38] Quase isso.
+
+[00:10:39–00:10:42] É um ciclo de retroalimentação positiva, sabe?
+
+[00:10:42–00:10:45] O apoio político, técnico e financeiro da Venezuela
+
+[00:10:45–00:10:49] tornou essa postura agressiva muito mais atraente para a Bolívia.
+
+[00:10:49–00:10:49] Sim.
+
+[00:10:49–00:10:52] E ao mesmo tempo aquelas restrições domésticas
+
+[00:10:52–00:10:53] que a gente acabou de falar
+
+[00:10:53–00:10:55] limitaram a retaliação do Brasil.
+
+[00:10:56–00:10:58] Então todo mundo fica travado em posições rígidas.
+
+[00:10:59–00:11:01] As estratégias se complementam.
+
+[00:11:01–00:11:04] É fundamental, porém, a gente fazer um parênteses gigante aqui.
+
+[00:11:05–00:11:07] Esse modelo formal dos jogos supermodulares
+
+[00:11:07–00:11:09] é uma ferramenta teórica, tá?
+
+[00:11:09–00:11:10] Com certeza.
+
+[00:11:10–00:11:12] Ele estrutura a lógica da coisa.
+
+[00:11:13–00:11:14] Ele mapeia os incentivos.
+
+[00:11:15–00:11:16] Mas a gente tem que ter muito cuidado
+
+[00:11:16–00:11:18] para não dizer que esse modelo
+
+[00:11:18–00:11:20] prova a causalidade de forma matemática no mundo real,
+
+[00:11:21–00:11:22] como se fosse física.
+
+[00:11:22–00:11:24] O caso da Bolívia ilustra muito bem a teoria.
+
+[00:11:25–00:11:28] Mas a diplomacia é muito bagunçada para falar em provas absolutas.
+
+[00:11:29–00:11:30] Uma ressalva superimportante.
+
+[00:11:31–00:11:33] E o artigo é muito sóbrio em relação a isso.
+
+[00:11:33–00:11:36] Eles até trazem o caso do Equador só para ajudar a ilustrar.
+
+[00:11:36–00:11:36] Ah, sim.
+
+[00:11:37–00:11:38] O Equador em 2006 também, né?
+
+[00:11:38–00:11:41] Eles tiveram aquela disputa pesada com petroleiras americanas.
+
+[00:11:41–00:11:42] Exato.
+
+[00:11:42–00:11:44] Só que no Equador o cenário era outro.
+
+[00:11:45–00:11:48] Lá não tinha uma estatal vizinha gigante como a Petrobras
+
+[00:11:48–00:11:50] amarrando a interdependência.
+
+[00:11:50–00:11:51] Pois é.
+
+[00:11:51–00:11:52] E qual foi o resultado lá?
+
+[00:11:53–00:11:55] Sem essas complementariedades estratégicas,
+
+[00:11:55–00:11:57] o Equador foi parar na arbitragem internacional.
+
+[00:11:58–00:11:59] No famoso ICSID.
+
+[00:11:59–00:12:00] Acabou num tribunal.
+
+[00:12:00–00:12:02] A via burocrática tradicional.
+
+[00:12:03–00:12:03] Uhum.
+
+[00:12:03–00:12:07] Mas, reforçando explicitamente para quem nos ouve,
+
+[00:12:07–00:12:10] o artigo não está dizendo que o Equador é um experimento científico perfeito
+
+[00:12:10–00:12:13] ou um contrafactual comprovado de que,
+
+[00:12:13–00:12:17] ah, se não fosse a Venezuela, a Bolívia faria igualzinho o Equador.
+
+[00:12:17–00:12:18] Não, de jeito nenhum.
+
+[00:12:18–00:12:23] É só uma comparação útil para ilustrar como a falta dessas complementariedades
+
+[00:12:23–00:12:24] muda a rota das coisas.
+
+[00:12:24–00:12:27] Bom, com esse impasse todo travado,
+
+[00:12:27–00:12:29] as coisas precisaram ser resolvidas de algum jeito.
+
+[00:12:29–00:12:34] Qual foi o desfecho dessa tensão toda, de forma bem neutra e pautada nos dados?
+
+[00:12:35–00:12:40] Então, o desfecho foi que a Petrobras reestruturou a operação dela lá na Bolívia.
+
+[00:12:40–00:12:42] Ela focou mais em exploração e produção.
+
+[00:12:42–00:12:43] E as refinarias?
+
+[00:12:44–00:12:48] Elas foram vendidas para a YPFB, a estatal da Bolívia,
+
+[00:12:48–00:12:51] por 112 milhões de dólares.
+
+[00:12:51–00:12:52] E um ponto interessante.
+
+[00:12:53–00:12:58] A fórmula original de preço e volume de gás não foi alterada inicialmente.
+
+[00:12:58–00:12:59] O contrato ficou de pé.
+
+[00:12:59–00:13:00] Ficou.
+
+[00:13:00–00:13:05] A dinâmica de preços e os novos arranjos só foram acomodados politicamente
+
+[00:13:05–00:13:07] nas rodadas de negociação depois disso.
+
+[00:13:08–00:13:13] O acordo foi o resultado pragmático do equilíbrio estratégico que eles descreveram.
+
+[00:13:14–00:13:19] Nada de adjetivos sensacionalistas ou atribuir intenções obscuras que não estão no texto.
+
+[00:13:19–00:13:23] É, o artigo não está ali para bater palma nem para defender governo A ou B.
+
+[00:13:24–00:13:28] Ele é uma análise acadêmica muito fria e bem fundamentada
+
+[00:13:28–00:13:30] de como a estrutura de poder funciona.
+
+[00:13:30–00:13:33] Bom, a gente precisa caminhar para o fim da nossa imersão.
+
+[00:13:33–00:13:38] Quais são as implicações que a gente tira de tudo isso olhando para o trabalho como um todo?
+
+[00:13:38–00:13:45] O principal, as limitações reais que o estudo traz é que a gente não pode achar que interdependência econômica
+
+[00:13:45–00:13:50] e até a presença de terceiros garantem cooperação automática.
+
+[00:13:50–00:13:52] Sim, o tiro pode sair pela culatra.
+
+[00:13:52–00:13:56] Podem gerar impasses profundos se os incentivos forem complementares, como a gente viu.
+
+[00:13:57–00:14:03] E a gente tem que lembrar que a aplicabilidade dessa ideia depende totalmente das condições de escopo do modelo.
+
+[00:14:03–00:14:10] Ou seja, se você pegar outra crise, essa teoria só vai servir se a estrutura de incentivos for bem parecida.
+
+[00:14:10–00:14:13] Então, o que tudo isso significa para a gente?
+
+[00:14:13–00:14:16] A gente termina com um pensamento meio provocativo para quem está escutando.
+
+[00:14:16–00:14:24] A gente viu como um aliado externo meio que invisível mudou completamente a balança de poder entre dois países.
+
+[00:14:24–00:14:25] Pois é.
+
+[00:14:25–00:14:29] Uma bela reflexão para a gente carregar para o resto da semana.
+
+[00:14:29–00:14:30] Fica aí o pensamento.
+
+[00:14:30–00:14:32] Um abraço e até a próxima análise.
